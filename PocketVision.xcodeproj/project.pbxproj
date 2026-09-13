@@ -1,0 +1,513 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000000000000000000001 /* PocketVisionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000001 /* PocketVisionApp.swift */; };
+		A10000000000000000000003 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000003 /* RootView.swift */; };
+		A10000000000000000000004 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000004 /* Theme.swift */; };
+		A10000000000000000000005 /* CameraPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000005 /* CameraPicker.swift */; };
+		A1000000000000000000000A /* Models/PocketVisionClassifier.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000012 /* Models/PocketVisionClassifier.mlpackage */; };
+		A1000000000000000000000B /* PocketVisionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000013 /* PocketVisionTests.swift */; };
+		A1000000000000000000000C /* PocketVisionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000015 /* PocketVisionUITests.swift */; };
+		A20000000000000000000001 /* Domain/RecognitionModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000001 /* Domain/RecognitionModels.swift */; };
+		A20000000000000000000002 /* Application/PocketVisionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000002 /* Application/PocketVisionModel.swift */; };
+		A20000000000000000000003 /* Recognition/ImageClassifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000003 /* Recognition/ImageClassifier.swift */; };
+		A20000000000000000000004 /* Persistence/RecognitionStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000004 /* Persistence/RecognitionStore.swift */; };
+		A20000000000000000000005 /* Features/Recognition/RecognitionHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000005 /* Features/Recognition/RecognitionHomeView.swift */; };
+		A20000000000000000000006 /* Features/Recognition/RecognitionResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000006 /* Features/Recognition/RecognitionResultView.swift */; };
+		A20000000000000000000007 /* Features/Recognition/PredictionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000007 /* Features/Recognition/PredictionRow.swift */; };
+		A20000000000000000000008 /* Features/Collection/CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000008 /* Features/Collection/CollectionView.swift */; };
+		A20000000000000000000009 /* Features/ModelInfo/ModelInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20000000000000000000009 /* Features/ModelInfo/ModelInfoView.swift */; };
+		A2000000000000000000000A /* Shared/Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2000000000000000000000A /* Shared/Components.swift */; };
+		A2000000000000000000000B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2000000000000000000000B /* Assets.xcassets */; };
+		A2000000000000000000000C /* Resources/ImageNetClassLabels.json in Resources */ = {isa = PBXBuildFile; fileRef = B2000000000000000000000C /* Resources/ImageNetClassLabels.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E10000000000000000000003 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E10000000000000000000002 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E10000000000000000000001;
+			remoteInfo = PocketVision;
+		};
+		E10000000000000000000007 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E10000000000000000000002 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E10000000000000000000001;
+			remoteInfo = PocketVision;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B10000000000000000000001 /* PocketVisionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PocketVisionApp.swift; sourceTree = "<group>"; };
+		B10000000000000000000003 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		B10000000000000000000004 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		B10000000000000000000005 /* CameraPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPicker.swift; sourceTree = "<group>"; };
+		B10000000000000000000006 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B10000000000000000000007 /* PocketVision.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PocketVision.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000000000000000000012 /* Models/PocketVisionClassifier.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper.mlpackage; path = Models/PocketVisionClassifier.mlpackage; sourceTree = "<group>"; };
+		B10000000000000000000013 /* PocketVisionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PocketVisionTests.swift; sourceTree = "<group>"; };
+		B10000000000000000000014 /* PocketVisionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PocketVisionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000000000000000000015 /* PocketVisionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PocketVisionUITests.swift; sourceTree = "<group>"; };
+		B10000000000000000000016 /* PocketVisionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PocketVisionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B20000000000000000000001 /* Domain/RecognitionModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecognitionModels.swift; sourceTree = "<group>"; };
+		B20000000000000000000002 /* Application/PocketVisionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PocketVisionModel.swift; sourceTree = "<group>"; };
+		B20000000000000000000003 /* Recognition/ImageClassifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassifier.swift; sourceTree = "<group>"; };
+		B20000000000000000000004 /* Persistence/RecognitionStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecognitionStore.swift; sourceTree = "<group>"; };
+		B20000000000000000000005 /* Features/Recognition/RecognitionHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecognitionHomeView.swift; sourceTree = "<group>"; };
+		B20000000000000000000006 /* Features/Recognition/RecognitionResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecognitionResultView.swift; sourceTree = "<group>"; };
+		B20000000000000000000007 /* Features/Recognition/PredictionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictionRow.swift; sourceTree = "<group>"; };
+		B20000000000000000000008 /* Features/Collection/CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
+		B20000000000000000000009 /* Features/ModelInfo/ModelInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelInfoView.swift; sourceTree = "<group>"; };
+		B2000000000000000000000A /* Shared/Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		B2000000000000000000000B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B2000000000000000000000C /* Resources/ImageNetClassLabels.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Resources/ImageNetClassLabels.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C10000000000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000005 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000008 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D10000000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				D10000000000000000000002 /* PocketVision */,
+				D10000000000000000000003 /* Products */,
+				D10000000000000000000004 /* PocketVisionTests */,
+				D10000000000000000000005 /* PocketVisionUITests */,
+			);
+			sourceTree = "<group>";
+		};
+		D10000000000000000000002 /* PocketVision */ = {
+			isa = PBXGroup;
+			children = (
+				B10000000000000000000001 /* PocketVisionApp.swift */,
+				B10000000000000000000003 /* RootView.swift */,
+				B10000000000000000000004 /* Theme.swift */,
+				B10000000000000000000005 /* CameraPicker.swift */,
+				D20000000000000000000001 /* Domain */,
+				D20000000000000000000002 /* Application */,
+				D20000000000000000000003 /* Recognition */,
+				D20000000000000000000004 /* Persistence */,
+				D20000000000000000000005 /* Recognition */,
+				D20000000000000000000006 /* Collection */,
+				D20000000000000000000007 /* ModelInfo */,
+				D20000000000000000000008 /* Shared */,
+				B2000000000000000000000B /* Assets.xcassets */,
+				B2000000000000000000000C /* Resources/ImageNetClassLabels.json */,
+				B10000000000000000000012 /* Models/PocketVisionClassifier.mlpackage */,
+				B10000000000000000000006 /* Info.plist */,
+			);
+			path = PocketVision;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B10000000000000000000007 /* PocketVision.app */,
+				B10000000000000000000014 /* PocketVisionTests.xctest */,
+				B10000000000000000000016 /* PocketVisionUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000004 /* PocketVisionTests */ = {
+			isa = PBXGroup;
+			children = (
+				B10000000000000000000013 /* PocketVisionTests.swift */,
+			);
+			path = PocketVisionTests;
+			sourceTree = "<group>";
+		};
+		D10000000000000000000005 /* PocketVisionUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B10000000000000000000015 /* PocketVisionUITests.swift */,
+			);
+			path = PocketVisionUITests;
+			sourceTree = "<group>";
+		};
+		D20000000000000000000001 /* Domain */ = {isa = PBXGroup; children = (B20000000000000000000001 /* RecognitionModels.swift */,); path = Domain; sourceTree = "<group>"; };
+		D20000000000000000000002 /* Application */ = {isa = PBXGroup; children = (B20000000000000000000002 /* PocketVisionModel.swift */,); path = Application; sourceTree = "<group>"; };
+		D20000000000000000000003 /* Recognition */ = {isa = PBXGroup; children = (B20000000000000000000003 /* ImageClassifier.swift */,); path = Recognition; sourceTree = "<group>"; };
+		D20000000000000000000004 /* Persistence */ = {isa = PBXGroup; children = (B20000000000000000000004 /* RecognitionStore.swift */,); path = Persistence; sourceTree = "<group>"; };
+		D20000000000000000000005 /* Recognition */ = {isa = PBXGroup; children = (B20000000000000000000005 /* RecognitionHomeView.swift */, B20000000000000000000006 /* RecognitionResultView.swift */, B20000000000000000000007 /* PredictionRow.swift */,); path = Features/Recognition; sourceTree = "<group>"; };
+		D20000000000000000000006 /* Collection */ = {isa = PBXGroup; children = (B20000000000000000000008 /* CollectionView.swift */,); path = Features/Collection; sourceTree = "<group>"; };
+		D20000000000000000000007 /* ModelInfo */ = {isa = PBXGroup; children = (B20000000000000000000009 /* ModelInfoView.swift */,); path = Features/ModelInfo; sourceTree = "<group>"; };
+		D20000000000000000000008 /* Shared */ = {isa = PBXGroup; children = (B2000000000000000000000A /* Components.swift */,); path = Shared; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E10000000000000000000001 /* PocketVision */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F10000000000000000000006 /* Build configuration list for PBXNativeTarget "PocketVision" */;
+			buildPhases = (
+				C10000000000000000000002 /* Sources */,
+				C10000000000000000000001 /* Frameworks */,
+				C10000000000000000000003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PocketVision;
+			productName = PocketVision;
+			productReference = B10000000000000000000007 /* PocketVision.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E10000000000000000000005 /* PocketVisionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F10000000000000000000009 /* Build configuration list for PBXNativeTarget "PocketVisionTests" */;
+			buildPhases = (
+				C10000000000000000000004 /* Sources */,
+				C10000000000000000000005 /* Frameworks */,
+				C10000000000000000000006 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E10000000000000000000004 /* PBXTargetDependency */,
+			);
+			name = PocketVisionTests;
+			productName = PocketVisionTests;
+			productReference = B10000000000000000000014 /* PocketVisionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E10000000000000000000006 /* PocketVisionUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1000000000000000000000A /* Build configuration list for PBXNativeTarget "PocketVisionUITests" */;
+			buildPhases = (
+				C10000000000000000000007 /* Sources */,
+				C10000000000000000000008 /* Frameworks */,
+				C10000000000000000000009 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E10000000000000000000008 /* PBXTargetDependency */,
+			);
+			name = PocketVisionUITests;
+			productName = PocketVisionUITests;
+			productReference = B10000000000000000000016 /* PocketVisionUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E10000000000000000000002 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					E10000000000000000000001 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					E10000000000000000000005 = {
+						CreatedOnToolsVersion = 27.0;
+						TestTargetID = E10000000000000000000001;
+					};
+					E10000000000000000000006 = {
+						CreatedOnToolsVersion = 27.0;
+						TestTargetID = E10000000000000000000001;
+					};
+				};
+			};
+			buildConfigurationList = F10000000000000000000003 /* Build configuration list for PBXProject "PocketVision" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = ru;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				ru,
+				en,
+				Base,
+			);
+			mainGroup = D10000000000000000000001;
+			productRefGroup = D10000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E10000000000000000000001 /* PocketVision */,
+				E10000000000000000000005 /* PocketVisionTests */,
+				E10000000000000000000006 /* PocketVisionUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C10000000000000000000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A2000000000000000000000B /* Assets.xcassets in Resources */,
+				A2000000000000000000000C /* Resources/ImageNetClassLabels.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000006 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000009 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C10000000000000000000002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000001 /* PocketVisionApp.swift in Sources */,
+				A10000000000000000000003 /* RootView.swift in Sources */,
+				A10000000000000000000004 /* Theme.swift in Sources */,
+				A10000000000000000000005 /* CameraPicker.swift in Sources */,
+				A20000000000000000000001 /* Domain/RecognitionModels.swift in Sources */,
+				A20000000000000000000002 /* Application/PocketVisionModel.swift in Sources */,
+				A20000000000000000000003 /* Recognition/ImageClassifier.swift in Sources */,
+				A20000000000000000000004 /* Persistence/RecognitionStore.swift in Sources */,
+				A20000000000000000000005 /* Features/Recognition/RecognitionHomeView.swift in Sources */,
+				A20000000000000000000006 /* Features/Recognition/RecognitionResultView.swift in Sources */,
+				A20000000000000000000007 /* Features/Recognition/PredictionRow.swift in Sources */,
+				A20000000000000000000008 /* Features/Collection/CollectionView.swift in Sources */,
+				A20000000000000000000009 /* Features/ModelInfo/ModelInfoView.swift in Sources */,
+				A2000000000000000000000A /* Shared/Components.swift in Sources */,
+				A1000000000000000000000A /* Models/PocketVisionClassifier.mlpackage in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000004 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1000000000000000000000B /* PocketVisionTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C10000000000000000000007 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1000000000000000000000C /* PocketVisionUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E10000000000000000000004 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E10000000000000000000001 /* PocketVision */;
+			targetProxy = E10000000000000000000003 /* PBXContainerItemProxy */;
+		};
+		E10000000000000000000008 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E10000000000000000000001 /* PocketVision */;
+			targetProxy = E10000000000000000000007 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F10000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		F10000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		F10000000000000000000004 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				ENABLE_TESTABILITY = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PocketVision/Info.plist;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F10000000000000000000005 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = PocketVision/Info.plist;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F10000000000000000000007 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PocketVision.app/PocketVision";
+			};
+			name = Debug;
+		};
+		F10000000000000000000008 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PocketVision.app/PocketVision";
+			};
+			name = Release;
+		};
+		F1000000000000000000000B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PocketVision;
+			};
+			name = Debug;
+		};
+		F1000000000000000000000C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = F2PMA8RGC8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = app.pocketvision.ios.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PocketVision;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F10000000000000000000003 /* Build configuration list for PBXProject "PocketVision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000001 /* Debug */,
+				F10000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F10000000000000000000006 /* Build configuration list for PBXNativeTarget "PocketVision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000004 /* Debug */,
+				F10000000000000000000005 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F10000000000000000000009 /* Build configuration list for PBXNativeTarget "PocketVisionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F10000000000000000000007 /* Debug */,
+				F10000000000000000000008 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1000000000000000000000A /* Build configuration list for PBXNativeTarget "PocketVisionUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1000000000000000000000B /* Debug */,
+				F1000000000000000000000C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E10000000000000000000002 /* Project object */;
+}
