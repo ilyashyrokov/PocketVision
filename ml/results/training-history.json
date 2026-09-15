@@ -1,0 +1,86 @@
+{
+  "dataset": "Imagenette 2-160 training split",
+  "seed": 42,
+  "device": "mps",
+  "train_images": 8522,
+  "internal_validation_images": 947,
+  "class_names": [
+    "tench",
+    "English springer",
+    "cassette player",
+    "chain saw",
+    "church",
+    "French horn",
+    "garbage truck",
+    "gas pump",
+    "golf ball",
+    "parachute"
+  ],
+  "best_internal_validation_top1": 0.9683210137275607,
+  "epochs": [
+    {
+      "epoch": 1,
+      "phase": "classifier",
+      "train": {
+        "loss": 0.5066633286875645,
+        "top1": 0.9421497301103028,
+        "top3": 0.985684111710866,
+        "images": 8522
+      },
+      "internal_validation": {
+        "loss": 0.4738729866782111,
+        "top1": 0.938753959873284,
+        "top3": 0.9915522703273495,
+        "images": 947
+      }
+    },
+    {
+      "epoch": 2,
+      "phase": "classifier",
+      "train": {
+        "loss": 0.4219590430946816,
+        "top1": 0.9691386998357193,
+        "top3": 0.9971837596808261,
+        "images": 8522
+      },
+      "internal_validation": {
+        "loss": 0.45556055907840587,
+        "top1": 0.9535374868004224,
+        "top3": 0.989440337909187,
+        "images": 947
+      }
+    },
+    {
+      "epoch": 3,
+      "phase": "last_blocks",
+      "train": {
+        "loss": 0.4012541448362163,
+        "top1": 0.9778221074865056,
+        "top3": 0.9977704764139873,
+        "images": 8522
+      },
+      "internal_validation": {
+        "loss": 0.4157292847270825,
+        "top1": 0.9651531151003168,
+        "top3": 0.9926082365364308,
+        "images": 947
+      }
+    },
+    {
+      "epoch": 4,
+      "phase": "last_blocks",
+      "train": {
+        "loss": 0.3688935567951628,
+        "top1": 0.9870922318704529,
+        "top3": 0.9992959399202065,
+        "images": 8522
+      },
+      "internal_validation": {
+        "loss": 0.41037040533460556,
+        "top1": 0.9683210137275607,
+        "top3": 0.9926082365364308,
+        "images": 947
+      }
+    }
+  ]
+}
