@@ -1,0 +1,5002 @@
+[
+  {
+    "synset": "n01440764",
+    "english": "tench",
+    "russian": "Линь"
+  },
+  {
+    "synset": "n01443537",
+    "english": "goldfish",
+    "russian": "Goldfish"
+  },
+  {
+    "synset": "n01484850",
+    "english": "great white shark",
+    "russian": "Great White Shark"
+  },
+  {
+    "synset": "n01491361",
+    "english": "tiger shark",
+    "russian": "Tiger Shark"
+  },
+  {
+    "synset": "n01494475",
+    "english": "hammerhead",
+    "russian": "Hammerhead"
+  },
+  {
+    "synset": "n01496331",
+    "english": "electric ray",
+    "russian": "Electric Ray"
+  },
+  {
+    "synset": "n01498041",
+    "english": "stingray",
+    "russian": "Stingray"
+  },
+  {
+    "synset": "n01514668",
+    "english": "cock",
+    "russian": "Cock"
+  },
+  {
+    "synset": "n01514859",
+    "english": "hen",
+    "russian": "Hen"
+  },
+  {
+    "synset": "n01518878",
+    "english": "ostrich",
+    "russian": "Ostrich"
+  },
+  {
+    "synset": "n01530575",
+    "english": "brambling",
+    "russian": "Brambling"
+  },
+  {
+    "synset": "n01531178",
+    "english": "goldfinch",
+    "russian": "Goldfinch"
+  },
+  {
+    "synset": "n01532829",
+    "english": "house finch",
+    "russian": "House Finch"
+  },
+  {
+    "synset": "n01534433",
+    "english": "junco",
+    "russian": "Junco"
+  },
+  {
+    "synset": "n01537544",
+    "english": "indigo bunting",
+    "russian": "Indigo Bunting"
+  },
+  {
+    "synset": "n01558993",
+    "english": "robin",
+    "russian": "Robin"
+  },
+  {
+    "synset": "n01560419",
+    "english": "bulbul",
+    "russian": "Bulbul"
+  },
+  {
+    "synset": "n01580077",
+    "english": "jay",
+    "russian": "Jay"
+  },
+  {
+    "synset": "n01582220",
+    "english": "magpie",
+    "russian": "Magpie"
+  },
+  {
+    "synset": "n01592084",
+    "english": "chickadee",
+    "russian": "Chickadee"
+  },
+  {
+    "synset": "n01601694",
+    "english": "water ouzel",
+    "russian": "Water Ouzel"
+  },
+  {
+    "synset": "n01608432",
+    "english": "kite",
+    "russian": "Kite"
+  },
+  {
+    "synset": "n01614925",
+    "english": "bald eagle",
+    "russian": "Bald Eagle"
+  },
+  {
+    "synset": "n01616318",
+    "english": "vulture",
+    "russian": "Vulture"
+  },
+  {
+    "synset": "n01622779",
+    "english": "great grey owl",
+    "russian": "Great Grey Owl"
+  },
+  {
+    "synset": "n01629819",
+    "english": "European fire salamander",
+    "russian": "European Fire Salamander"
+  },
+  {
+    "synset": "n01630670",
+    "english": "common newt",
+    "russian": "Common Newt"
+  },
+  {
+    "synset": "n01631663",
+    "english": "eft",
+    "russian": "Eft"
+  },
+  {
+    "synset": "n01632458",
+    "english": "spotted salamander",
+    "russian": "Spotted Salamander"
+  },
+  {
+    "synset": "n01632777",
+    "english": "axolotl",
+    "russian": "Axolotl"
+  },
+  {
+    "synset": "n01641577",
+    "english": "bullfrog",
+    "russian": "Bullfrog"
+  },
+  {
+    "synset": "n01644373",
+    "english": "tree frog",
+    "russian": "Tree Frog"
+  },
+  {
+    "synset": "n01644900",
+    "english": "tailed frog",
+    "russian": "Tailed Frog"
+  },
+  {
+    "synset": "n01664065",
+    "english": "loggerhead",
+    "russian": "Loggerhead"
+  },
+  {
+    "synset": "n01665541",
+    "english": "leatherback turtle",
+    "russian": "Leatherback Turtle"
+  },
+  {
+    "synset": "n01667114",
+    "english": "mud turtle",
+    "russian": "Mud Turtle"
+  },
+  {
+    "synset": "n01667778",
+    "english": "terrapin",
+    "russian": "Terrapin"
+  },
+  {
+    "synset": "n01669191",
+    "english": "box turtle",
+    "russian": "Box Turtle"
+  },
+  {
+    "synset": "n01675722",
+    "english": "banded gecko",
+    "russian": "Banded Gecko"
+  },
+  {
+    "synset": "n01677366",
+    "english": "common iguana",
+    "russian": "Common Iguana"
+  },
+  {
+    "synset": "n01682714",
+    "english": "American chameleon",
+    "russian": "American Chameleon"
+  },
+  {
+    "synset": "n01685808",
+    "english": "whiptail",
+    "russian": "Whiptail"
+  },
+  {
+    "synset": "n01687978",
+    "english": "agama",
+    "russian": "Agama"
+  },
+  {
+    "synset": "n01688243",
+    "english": "frilled lizard",
+    "russian": "Frilled Lizard"
+  },
+  {
+    "synset": "n01689811",
+    "english": "alligator lizard",
+    "russian": "Alligator Lizard"
+  },
+  {
+    "synset": "n01692333",
+    "english": "Gila monster",
+    "russian": "Gila Monster"
+  },
+  {
+    "synset": "n01693334",
+    "english": "green lizard",
+    "russian": "Green Lizard"
+  },
+  {
+    "synset": "n01694178",
+    "english": "African chameleon",
+    "russian": "African Chameleon"
+  },
+  {
+    "synset": "n01695060",
+    "english": "Komodo dragon",
+    "russian": "Komodo Dragon"
+  },
+  {
+    "synset": "n01697457",
+    "english": "African crocodile",
+    "russian": "African Crocodile"
+  },
+  {
+    "synset": "n01698640",
+    "english": "American alligator",
+    "russian": "American Alligator"
+  },
+  {
+    "synset": "n01704323",
+    "english": "triceratops",
+    "russian": "Triceratops"
+  },
+  {
+    "synset": "n01728572",
+    "english": "thunder snake",
+    "russian": "Thunder Snake"
+  },
+  {
+    "synset": "n01728920",
+    "english": "ringneck snake",
+    "russian": "Ringneck Snake"
+  },
+  {
+    "synset": "n01729322",
+    "english": "hognose snake",
+    "russian": "Hognose Snake"
+  },
+  {
+    "synset": "n01729977",
+    "english": "green snake",
+    "russian": "Green Snake"
+  },
+  {
+    "synset": "n01734418",
+    "english": "king snake",
+    "russian": "King Snake"
+  },
+  {
+    "synset": "n01735189",
+    "english": "garter snake",
+    "russian": "Garter Snake"
+  },
+  {
+    "synset": "n01737021",
+    "english": "water snake",
+    "russian": "Water Snake"
+  },
+  {
+    "synset": "n01739381",
+    "english": "vine snake",
+    "russian": "Vine Snake"
+  },
+  {
+    "synset": "n01740131",
+    "english": "night snake",
+    "russian": "Night Snake"
+  },
+  {
+    "synset": "n01742172",
+    "english": "boa constrictor",
+    "russian": "Boa Constrictor"
+  },
+  {
+    "synset": "n01744401",
+    "english": "rock python",
+    "russian": "Rock Python"
+  },
+  {
+    "synset": "n01748264",
+    "english": "Indian cobra",
+    "russian": "Indian Cobra"
+  },
+  {
+    "synset": "n01749939",
+    "english": "green mamba",
+    "russian": "Green Mamba"
+  },
+  {
+    "synset": "n01751748",
+    "english": "sea snake",
+    "russian": "Sea Snake"
+  },
+  {
+    "synset": "n01753488",
+    "english": "horned viper",
+    "russian": "Horned Viper"
+  },
+  {
+    "synset": "n01755581",
+    "english": "diamondback",
+    "russian": "Diamondback"
+  },
+  {
+    "synset": "n01756291",
+    "english": "sidewinder",
+    "russian": "Sidewinder"
+  },
+  {
+    "synset": "n01768244",
+    "english": "trilobite",
+    "russian": "Trilobite"
+  },
+  {
+    "synset": "n01770081",
+    "english": "harvestman",
+    "russian": "Harvestman"
+  },
+  {
+    "synset": "n01770393",
+    "english": "scorpion",
+    "russian": "Scorpion"
+  },
+  {
+    "synset": "n01773157",
+    "english": "black and gold garden spider",
+    "russian": "Black And Gold Garden Spider"
+  },
+  {
+    "synset": "n01773549",
+    "english": "barn spider",
+    "russian": "Barn Spider"
+  },
+  {
+    "synset": "n01773797",
+    "english": "garden spider",
+    "russian": "Garden Spider"
+  },
+  {
+    "synset": "n01774384",
+    "english": "black widow",
+    "russian": "Black Widow"
+  },
+  {
+    "synset": "n01774750",
+    "english": "tarantula",
+    "russian": "Tarantula"
+  },
+  {
+    "synset": "n01775062",
+    "english": "wolf spider",
+    "russian": "Wolf Spider"
+  },
+  {
+    "synset": "n01776313",
+    "english": "tick",
+    "russian": "Tick"
+  },
+  {
+    "synset": "n01784675",
+    "english": "centipede",
+    "russian": "Centipede"
+  },
+  {
+    "synset": "n01795545",
+    "english": "black grouse",
+    "russian": "Black Grouse"
+  },
+  {
+    "synset": "n01796340",
+    "english": "ptarmigan",
+    "russian": "Ptarmigan"
+  },
+  {
+    "synset": "n01797886",
+    "english": "ruffed grouse",
+    "russian": "Ruffed Grouse"
+  },
+  {
+    "synset": "n01798484",
+    "english": "prairie chicken",
+    "russian": "Prairie Chicken"
+  },
+  {
+    "synset": "n01806143",
+    "english": "peacock",
+    "russian": "Peacock"
+  },
+  {
+    "synset": "n01806567",
+    "english": "quail",
+    "russian": "Quail"
+  },
+  {
+    "synset": "n01807496",
+    "english": "partridge",
+    "russian": "Partridge"
+  },
+  {
+    "synset": "n01817953",
+    "english": "African grey",
+    "russian": "African Grey"
+  },
+  {
+    "synset": "n01818515",
+    "english": "macaw",
+    "russian": "Macaw"
+  },
+  {
+    "synset": "n01819313",
+    "english": "sulphur-crested cockatoo",
+    "russian": "Sulphur-Crested Cockatoo"
+  },
+  {
+    "synset": "n01820546",
+    "english": "lorikeet",
+    "russian": "Lorikeet"
+  },
+  {
+    "synset": "n01824575",
+    "english": "coucal",
+    "russian": "Coucal"
+  },
+  {
+    "synset": "n01828970",
+    "english": "bee eater",
+    "russian": "Bee Eater"
+  },
+  {
+    "synset": "n01829413",
+    "english": "hornbill",
+    "russian": "Hornbill"
+  },
+  {
+    "synset": "n01833805",
+    "english": "hummingbird",
+    "russian": "Hummingbird"
+  },
+  {
+    "synset": "n01843065",
+    "english": "jacamar",
+    "russian": "Jacamar"
+  },
+  {
+    "synset": "n01843383",
+    "english": "toucan",
+    "russian": "Toucan"
+  },
+  {
+    "synset": "n01847000",
+    "english": "drake",
+    "russian": "Drake"
+  },
+  {
+    "synset": "n01855032",
+    "english": "red-breasted merganser",
+    "russian": "Red-Breasted Merganser"
+  },
+  {
+    "synset": "n01855672",
+    "english": "goose",
+    "russian": "Goose"
+  },
+  {
+    "synset": "n01860187",
+    "english": "black swan",
+    "russian": "Black Swan"
+  },
+  {
+    "synset": "n01871265",
+    "english": "tusker",
+    "russian": "Tusker"
+  },
+  {
+    "synset": "n01872401",
+    "english": "echidna",
+    "russian": "Echidna"
+  },
+  {
+    "synset": "n01873310",
+    "english": "platypus",
+    "russian": "Platypus"
+  },
+  {
+    "synset": "n01877812",
+    "english": "wallaby",
+    "russian": "Wallaby"
+  },
+  {
+    "synset": "n01882714",
+    "english": "koala",
+    "russian": "Koala"
+  },
+  {
+    "synset": "n01883070",
+    "english": "wombat",
+    "russian": "Wombat"
+  },
+  {
+    "synset": "n01910747",
+    "english": "jellyfish",
+    "russian": "Jellyfish"
+  },
+  {
+    "synset": "n01914609",
+    "english": "sea anemone",
+    "russian": "Sea Anemone"
+  },
+  {
+    "synset": "n01917289",
+    "english": "brain coral",
+    "russian": "Brain Coral"
+  },
+  {
+    "synset": "n01924916",
+    "english": "flatworm",
+    "russian": "Flatworm"
+  },
+  {
+    "synset": "n01930112",
+    "english": "nematode",
+    "russian": "Nematode"
+  },
+  {
+    "synset": "n01943899",
+    "english": "conch",
+    "russian": "Conch"
+  },
+  {
+    "synset": "n01944390",
+    "english": "snail",
+    "russian": "Snail"
+  },
+  {
+    "synset": "n01945685",
+    "english": "slug",
+    "russian": "Slug"
+  },
+  {
+    "synset": "n01950731",
+    "english": "sea slug",
+    "russian": "Sea Slug"
+  },
+  {
+    "synset": "n01955084",
+    "english": "chiton",
+    "russian": "Chiton"
+  },
+  {
+    "synset": "n01968897",
+    "english": "chambered nautilus",
+    "russian": "Chambered Nautilus"
+  },
+  {
+    "synset": "n01978287",
+    "english": "Dungeness crab",
+    "russian": "Dungeness Crab"
+  },
+  {
+    "synset": "n01978455",
+    "english": "rock crab",
+    "russian": "Rock Crab"
+  },
+  {
+    "synset": "n01980166",
+    "english": "fiddler crab",
+    "russian": "Fiddler Crab"
+  },
+  {
+    "synset": "n01981276",
+    "english": "king crab",
+    "russian": "King Crab"
+  },
+  {
+    "synset": "n01983481",
+    "english": "American lobster",
+    "russian": "American Lobster"
+  },
+  {
+    "synset": "n01984695",
+    "english": "spiny lobster",
+    "russian": "Spiny Lobster"
+  },
+  {
+    "synset": "n01985128",
+    "english": "crayfish",
+    "russian": "Crayfish"
+  },
+  {
+    "synset": "n01986214",
+    "english": "hermit crab",
+    "russian": "Hermit Crab"
+  },
+  {
+    "synset": "n01990800",
+    "english": "isopod",
+    "russian": "Isopod"
+  },
+  {
+    "synset": "n02002556",
+    "english": "white stork",
+    "russian": "White Stork"
+  },
+  {
+    "synset": "n02002724",
+    "english": "black stork",
+    "russian": "Black Stork"
+  },
+  {
+    "synset": "n02006656",
+    "english": "spoonbill",
+    "russian": "Spoonbill"
+  },
+  {
+    "synset": "n02007558",
+    "english": "flamingo",
+    "russian": "Flamingo"
+  },
+  {
+    "synset": "n02009229",
+    "english": "little blue heron",
+    "russian": "Little Blue Heron"
+  },
+  {
+    "synset": "n02009912",
+    "english": "American egret",
+    "russian": "American Egret"
+  },
+  {
+    "synset": "n02011460",
+    "english": "bittern",
+    "russian": "Bittern"
+  },
+  {
+    "synset": "n02012849",
+    "english": "crane bird",
+    "russian": "Crane Bird"
+  },
+  {
+    "synset": "n02013706",
+    "english": "limpkin",
+    "russian": "Limpkin"
+  },
+  {
+    "synset": "n02017213",
+    "english": "European gallinule",
+    "russian": "European Gallinule"
+  },
+  {
+    "synset": "n02018207",
+    "english": "American coot",
+    "russian": "American Coot"
+  },
+  {
+    "synset": "n02018795",
+    "english": "bustard",
+    "russian": "Bustard"
+  },
+  {
+    "synset": "n02025239",
+    "english": "ruddy turnstone",
+    "russian": "Ruddy Turnstone"
+  },
+  {
+    "synset": "n02027492",
+    "english": "red-backed sandpiper",
+    "russian": "Red-Backed Sandpiper"
+  },
+  {
+    "synset": "n02028035",
+    "english": "redshank",
+    "russian": "Redshank"
+  },
+  {
+    "synset": "n02033041",
+    "english": "dowitcher",
+    "russian": "Dowitcher"
+  },
+  {
+    "synset": "n02037110",
+    "english": "oystercatcher",
+    "russian": "Oystercatcher"
+  },
+  {
+    "synset": "n02051845",
+    "english": "pelican",
+    "russian": "Pelican"
+  },
+  {
+    "synset": "n02056570",
+    "english": "king penguin",
+    "russian": "King Penguin"
+  },
+  {
+    "synset": "n02058221",
+    "english": "albatross",
+    "russian": "Albatross"
+  },
+  {
+    "synset": "n02066245",
+    "english": "grey whale",
+    "russian": "Grey Whale"
+  },
+  {
+    "synset": "n02071294",
+    "english": "killer whale",
+    "russian": "Killer Whale"
+  },
+  {
+    "synset": "n02074367",
+    "english": "dugong",
+    "russian": "Dugong"
+  },
+  {
+    "synset": "n02077923",
+    "english": "sea lion",
+    "russian": "Sea Lion"
+  },
+  {
+    "synset": "n02085620",
+    "english": "Chihuahua",
+    "russian": "Chihuahua"
+  },
+  {
+    "synset": "n02085782",
+    "english": "Japanese spaniel",
+    "russian": "Japanese Spaniel"
+  },
+  {
+    "synset": "n02085936",
+    "english": "Maltese dog",
+    "russian": "Maltese Dog"
+  },
+  {
+    "synset": "n02086079",
+    "english": "Pekinese",
+    "russian": "Pekinese"
+  },
+  {
+    "synset": "n02086240",
+    "english": "Shih-Tzu",
+    "russian": "Shih-Tzu"
+  },
+  {
+    "synset": "n02086646",
+    "english": "Blenheim spaniel",
+    "russian": "Blenheim Spaniel"
+  },
+  {
+    "synset": "n02086910",
+    "english": "papillon",
+    "russian": "Papillon"
+  },
+  {
+    "synset": "n02087046",
+    "english": "toy terrier",
+    "russian": "Toy Terrier"
+  },
+  {
+    "synset": "n02087394",
+    "english": "Rhodesian ridgeback",
+    "russian": "Rhodesian Ridgeback"
+  },
+  {
+    "synset": "n02088094",
+    "english": "Afghan hound",
+    "russian": "Afghan Hound"
+  },
+  {
+    "synset": "n02088238",
+    "english": "basset",
+    "russian": "Basset"
+  },
+  {
+    "synset": "n02088364",
+    "english": "beagle",
+    "russian": "Beagle"
+  },
+  {
+    "synset": "n02088466",
+    "english": "bloodhound",
+    "russian": "Bloodhound"
+  },
+  {
+    "synset": "n02088632",
+    "english": "bluetick",
+    "russian": "Bluetick"
+  },
+  {
+    "synset": "n02089078",
+    "english": "black-and-tan coonhound",
+    "russian": "Black-And-Tan Coonhound"
+  },
+  {
+    "synset": "n02089867",
+    "english": "Walker hound",
+    "russian": "Walker Hound"
+  },
+  {
+    "synset": "n02089973",
+    "english": "English foxhound",
+    "russian": "English Foxhound"
+  },
+  {
+    "synset": "n02090379",
+    "english": "redbone",
+    "russian": "Redbone"
+  },
+  {
+    "synset": "n02090622",
+    "english": "borzoi",
+    "russian": "Borzoi"
+  },
+  {
+    "synset": "n02090721",
+    "english": "Irish wolfhound",
+    "russian": "Irish Wolfhound"
+  },
+  {
+    "synset": "n02091032",
+    "english": "Italian greyhound",
+    "russian": "Italian Greyhound"
+  },
+  {
+    "synset": "n02091134",
+    "english": "whippet",
+    "russian": "Whippet"
+  },
+  {
+    "synset": "n02091244",
+    "english": "Ibizan hound",
+    "russian": "Ibizan Hound"
+  },
+  {
+    "synset": "n02091467",
+    "english": "Norwegian elkhound",
+    "russian": "Norwegian Elkhound"
+  },
+  {
+    "synset": "n02091635",
+    "english": "otterhound",
+    "russian": "Otterhound"
+  },
+  {
+    "synset": "n02091831",
+    "english": "Saluki",
+    "russian": "Saluki"
+  },
+  {
+    "synset": "n02092002",
+    "english": "Scottish deerhound",
+    "russian": "Scottish Deerhound"
+  },
+  {
+    "synset": "n02092339",
+    "english": "Weimaraner",
+    "russian": "Weimaraner"
+  },
+  {
+    "synset": "n02093256",
+    "english": "Staffordshire bullterrier",
+    "russian": "Staffordshire Bullterrier"
+  },
+  {
+    "synset": "n02093428",
+    "english": "American Staffordshire terrier",
+    "russian": "American Staffordshire Terrier"
+  },
+  {
+    "synset": "n02093647",
+    "english": "Bedlington terrier",
+    "russian": "Bedlington Terrier"
+  },
+  {
+    "synset": "n02093754",
+    "english": "Border terrier",
+    "russian": "Border Terrier"
+  },
+  {
+    "synset": "n02093859",
+    "english": "Kerry blue terrier",
+    "russian": "Kerry Blue Terrier"
+  },
+  {
+    "synset": "n02093991",
+    "english": "Irish terrier",
+    "russian": "Irish Terrier"
+  },
+  {
+    "synset": "n02094114",
+    "english": "Norfolk terrier",
+    "russian": "Norfolk Terrier"
+  },
+  {
+    "synset": "n02094258",
+    "english": "Norwich terrier",
+    "russian": "Norwich Terrier"
+  },
+  {
+    "synset": "n02094433",
+    "english": "Yorkshire terrier",
+    "russian": "Yorkshire Terrier"
+  },
+  {
+    "synset": "n02095314",
+    "english": "wire-haired fox terrier",
+    "russian": "Wire-Haired Fox Terrier"
+  },
+  {
+    "synset": "n02095570",
+    "english": "Lakeland terrier",
+    "russian": "Lakeland Terrier"
+  },
+  {
+    "synset": "n02095889",
+    "english": "Sealyham terrier",
+    "russian": "Sealyham Terrier"
+  },
+  {
+    "synset": "n02096051",
+    "english": "Airedale",
+    "russian": "Airedale"
+  },
+  {
+    "synset": "n02096177",
+    "english": "cairn",
+    "russian": "Cairn"
+  },
+  {
+    "synset": "n02096294",
+    "english": "Australian terrier",
+    "russian": "Australian Terrier"
+  },
+  {
+    "synset": "n02096437",
+    "english": "Dandie Dinmont",
+    "russian": "Dandie Dinmont"
+  },
+  {
+    "synset": "n02096585",
+    "english": "Boston bull",
+    "russian": "Boston Bull"
+  },
+  {
+    "synset": "n02097047",
+    "english": "miniature schnauzer",
+    "russian": "Miniature Schnauzer"
+  },
+  {
+    "synset": "n02097130",
+    "english": "giant schnauzer",
+    "russian": "Giant Schnauzer"
+  },
+  {
+    "synset": "n02097209",
+    "english": "standard schnauzer",
+    "russian": "Standard Schnauzer"
+  },
+  {
+    "synset": "n02097298",
+    "english": "Scotch terrier",
+    "russian": "Scotch Terrier"
+  },
+  {
+    "synset": "n02097474",
+    "english": "Tibetan terrier",
+    "russian": "Tibetan Terrier"
+  },
+  {
+    "synset": "n02097658",
+    "english": "silky terrier",
+    "russian": "Silky Terrier"
+  },
+  {
+    "synset": "n02098105",
+    "english": "soft-coated wheaten terrier",
+    "russian": "Soft-Coated Wheaten Terrier"
+  },
+  {
+    "synset": "n02098286",
+    "english": "West Highland white terrier",
+    "russian": "West Highland White Terrier"
+  },
+  {
+    "synset": "n02098413",
+    "english": "Lhasa",
+    "russian": "Lhasa"
+  },
+  {
+    "synset": "n02099267",
+    "english": "flat-coated retriever",
+    "russian": "Flat-Coated Retriever"
+  },
+  {
+    "synset": "n02099429",
+    "english": "curly-coated retriever",
+    "russian": "Curly-Coated Retriever"
+  },
+  {
+    "synset": "n02099601",
+    "english": "golden retriever",
+    "russian": "Golden Retriever"
+  },
+  {
+    "synset": "n02099712",
+    "english": "Labrador retriever",
+    "russian": "Labrador Retriever"
+  },
+  {
+    "synset": "n02099849",
+    "english": "Chesapeake Bay retriever",
+    "russian": "Chesapeake Bay Retriever"
+  },
+  {
+    "synset": "n02100236",
+    "english": "German short-haired pointer",
+    "russian": "German Short-Haired Pointer"
+  },
+  {
+    "synset": "n02100583",
+    "english": "vizsla",
+    "russian": "Vizsla"
+  },
+  {
+    "synset": "n02100735",
+    "english": "English setter",
+    "russian": "English Setter"
+  },
+  {
+    "synset": "n02100877",
+    "english": "Irish setter",
+    "russian": "Irish Setter"
+  },
+  {
+    "synset": "n02101006",
+    "english": "Gordon setter",
+    "russian": "Gordon Setter"
+  },
+  {
+    "synset": "n02101388",
+    "english": "Brittany spaniel",
+    "russian": "Brittany Spaniel"
+  },
+  {
+    "synset": "n02101556",
+    "english": "clumber",
+    "russian": "Clumber"
+  },
+  {
+    "synset": "n02102040",
+    "english": "English springer",
+    "russian": "Английский спрингер-спаниель"
+  },
+  {
+    "synset": "n02102177",
+    "english": "Welsh springer spaniel",
+    "russian": "Welsh Springer Spaniel"
+  },
+  {
+    "synset": "n02102318",
+    "english": "cocker spaniel",
+    "russian": "Cocker Spaniel"
+  },
+  {
+    "synset": "n02102480",
+    "english": "Sussex spaniel",
+    "russian": "Sussex Spaniel"
+  },
+  {
+    "synset": "n02102973",
+    "english": "Irish water spaniel",
+    "russian": "Irish Water Spaniel"
+  },
+  {
+    "synset": "n02104029",
+    "english": "kuvasz",
+    "russian": "Kuvasz"
+  },
+  {
+    "synset": "n02104365",
+    "english": "schipperke",
+    "russian": "Schipperke"
+  },
+  {
+    "synset": "n02105056",
+    "english": "groenendael",
+    "russian": "Groenendael"
+  },
+  {
+    "synset": "n02105162",
+    "english": "malinois",
+    "russian": "Malinois"
+  },
+  {
+    "synset": "n02105251",
+    "english": "briard",
+    "russian": "Briard"
+  },
+  {
+    "synset": "n02105412",
+    "english": "kelpie",
+    "russian": "Kelpie"
+  },
+  {
+    "synset": "n02105505",
+    "english": "komondor",
+    "russian": "Komondor"
+  },
+  {
+    "synset": "n02105641",
+    "english": "Old English sheepdog",
+    "russian": "Old English Sheepdog"
+  },
+  {
+    "synset": "n02105855",
+    "english": "Shetland sheepdog",
+    "russian": "Shetland Sheepdog"
+  },
+  {
+    "synset": "n02106030",
+    "english": "collie",
+    "russian": "Collie"
+  },
+  {
+    "synset": "n02106166",
+    "english": "Border collie",
+    "russian": "Border Collie"
+  },
+  {
+    "synset": "n02106382",
+    "english": "Bouvier des Flandres",
+    "russian": "Bouvier Des Flandres"
+  },
+  {
+    "synset": "n02106550",
+    "english": "Rottweiler",
+    "russian": "Rottweiler"
+  },
+  {
+    "synset": "n02106662",
+    "english": "German shepherd",
+    "russian": "German Shepherd"
+  },
+  {
+    "synset": "n02107142",
+    "english": "Doberman",
+    "russian": "Doberman"
+  },
+  {
+    "synset": "n02107312",
+    "english": "miniature pinscher",
+    "russian": "Miniature Pinscher"
+  },
+  {
+    "synset": "n02107574",
+    "english": "Greater Swiss Mountain dog",
+    "russian": "Greater Swiss Mountain Dog"
+  },
+  {
+    "synset": "n02107683",
+    "english": "Bernese mountain dog",
+    "russian": "Bernese Mountain Dog"
+  },
+  {
+    "synset": "n02107908",
+    "english": "Appenzeller",
+    "russian": "Appenzeller"
+  },
+  {
+    "synset": "n02108000",
+    "english": "EntleBucher",
+    "russian": "Entlebucher"
+  },
+  {
+    "synset": "n02108089",
+    "english": "boxer",
+    "russian": "Boxer"
+  },
+  {
+    "synset": "n02108422",
+    "english": "bull mastiff",
+    "russian": "Bull Mastiff"
+  },
+  {
+    "synset": "n02108551",
+    "english": "Tibetan mastiff",
+    "russian": "Tibetan Mastiff"
+  },
+  {
+    "synset": "n02108915",
+    "english": "French bulldog",
+    "russian": "French Bulldog"
+  },
+  {
+    "synset": "n02109047",
+    "english": "Great Dane",
+    "russian": "Great Dane"
+  },
+  {
+    "synset": "n02109525",
+    "english": "Saint Bernard",
+    "russian": "Saint Bernard"
+  },
+  {
+    "synset": "n02109961",
+    "english": "Eskimo dog",
+    "russian": "Eskimo Dog"
+  },
+  {
+    "synset": "n02110063",
+    "english": "malamute",
+    "russian": "Malamute"
+  },
+  {
+    "synset": "n02110185",
+    "english": "Siberian husky",
+    "russian": "Siberian Husky"
+  },
+  {
+    "synset": "n02110341",
+    "english": "dalmatian",
+    "russian": "Dalmatian"
+  },
+  {
+    "synset": "n02110627",
+    "english": "affenpinscher",
+    "russian": "Affenpinscher"
+  },
+  {
+    "synset": "n02110806",
+    "english": "basenji",
+    "russian": "Basenji"
+  },
+  {
+    "synset": "n02110958",
+    "english": "pug",
+    "russian": "Pug"
+  },
+  {
+    "synset": "n02111129",
+    "english": "Leonberg",
+    "russian": "Leonberg"
+  },
+  {
+    "synset": "n02111277",
+    "english": "Newfoundland",
+    "russian": "Newfoundland"
+  },
+  {
+    "synset": "n02111500",
+    "english": "Great Pyrenees",
+    "russian": "Great Pyrenees"
+  },
+  {
+    "synset": "n02111889",
+    "english": "Samoyed",
+    "russian": "Samoyed"
+  },
+  {
+    "synset": "n02112018",
+    "english": "Pomeranian",
+    "russian": "Pomeranian"
+  },
+  {
+    "synset": "n02112137",
+    "english": "chow",
+    "russian": "Chow"
+  },
+  {
+    "synset": "n02112350",
+    "english": "keeshond",
+    "russian": "Keeshond"
+  },
+  {
+    "synset": "n02112706",
+    "english": "Brabancon griffon",
+    "russian": "Brabancon Griffon"
+  },
+  {
+    "synset": "n02113023",
+    "english": "Pembroke",
+    "russian": "Pembroke"
+  },
+  {
+    "synset": "n02113186",
+    "english": "Cardigan",
+    "russian": "Cardigan"
+  },
+  {
+    "synset": "n02113624",
+    "english": "toy poodle",
+    "russian": "Toy Poodle"
+  },
+  {
+    "synset": "n02113712",
+    "english": "miniature poodle",
+    "russian": "Miniature Poodle"
+  },
+  {
+    "synset": "n02113799",
+    "english": "standard poodle",
+    "russian": "Standard Poodle"
+  },
+  {
+    "synset": "n02113978",
+    "english": "Mexican hairless",
+    "russian": "Mexican Hairless"
+  },
+  {
+    "synset": "n02114367",
+    "english": "timber wolf",
+    "russian": "Timber Wolf"
+  },
+  {
+    "synset": "n02114548",
+    "english": "white wolf",
+    "russian": "White Wolf"
+  },
+  {
+    "synset": "n02114712",
+    "english": "red wolf",
+    "russian": "Red Wolf"
+  },
+  {
+    "synset": "n02114855",
+    "english": "coyote",
+    "russian": "Coyote"
+  },
+  {
+    "synset": "n02115641",
+    "english": "dingo",
+    "russian": "Dingo"
+  },
+  {
+    "synset": "n02115913",
+    "english": "dhole",
+    "russian": "Dhole"
+  },
+  {
+    "synset": "n02116738",
+    "english": "African hunting dog",
+    "russian": "African Hunting Dog"
+  },
+  {
+    "synset": "n02117135",
+    "english": "hyena",
+    "russian": "Hyena"
+  },
+  {
+    "synset": "n02119022",
+    "english": "red fox",
+    "russian": "Red Fox"
+  },
+  {
+    "synset": "n02119789",
+    "english": "kit fox",
+    "russian": "Kit Fox"
+  },
+  {
+    "synset": "n02120079",
+    "english": "Arctic fox",
+    "russian": "Arctic Fox"
+  },
+  {
+    "synset": "n02120505",
+    "english": "grey fox",
+    "russian": "Grey Fox"
+  },
+  {
+    "synset": "n02123045",
+    "english": "tabby",
+    "russian": "Tabby"
+  },
+  {
+    "synset": "n02123159",
+    "english": "tiger cat",
+    "russian": "Tiger Cat"
+  },
+  {
+    "synset": "n02123394",
+    "english": "Persian cat",
+    "russian": "Persian Cat"
+  },
+  {
+    "synset": "n02123597",
+    "english": "Siamese cat",
+    "russian": "Siamese Cat"
+  },
+  {
+    "synset": "n02124075",
+    "english": "Egyptian cat",
+    "russian": "Egyptian Cat"
+  },
+  {
+    "synset": "n02125311",
+    "english": "cougar",
+    "russian": "Cougar"
+  },
+  {
+    "synset": "n02127052",
+    "english": "lynx",
+    "russian": "Lynx"
+  },
+  {
+    "synset": "n02128385",
+    "english": "leopard",
+    "russian": "Leopard"
+  },
+  {
+    "synset": "n02128757",
+    "english": "snow leopard",
+    "russian": "Snow Leopard"
+  },
+  {
+    "synset": "n02128925",
+    "english": "jaguar",
+    "russian": "Jaguar"
+  },
+  {
+    "synset": "n02129165",
+    "english": "lion",
+    "russian": "Lion"
+  },
+  {
+    "synset": "n02129604",
+    "english": "tiger",
+    "russian": "Tiger"
+  },
+  {
+    "synset": "n02130308",
+    "english": "cheetah",
+    "russian": "Cheetah"
+  },
+  {
+    "synset": "n02132136",
+    "english": "brown bear",
+    "russian": "Brown Bear"
+  },
+  {
+    "synset": "n02133161",
+    "english": "American black bear",
+    "russian": "American Black Bear"
+  },
+  {
+    "synset": "n02134084",
+    "english": "ice bear",
+    "russian": "Ice Bear"
+  },
+  {
+    "synset": "n02134418",
+    "english": "sloth bear",
+    "russian": "Sloth Bear"
+  },
+  {
+    "synset": "n02137549",
+    "english": "mongoose",
+    "russian": "Mongoose"
+  },
+  {
+    "synset": "n02138441",
+    "english": "meerkat",
+    "russian": "Meerkat"
+  },
+  {
+    "synset": "n02165105",
+    "english": "tiger beetle",
+    "russian": "Tiger Beetle"
+  },
+  {
+    "synset": "n02165456",
+    "english": "ladybug",
+    "russian": "Ladybug"
+  },
+  {
+    "synset": "n02167151",
+    "english": "ground beetle",
+    "russian": "Ground Beetle"
+  },
+  {
+    "synset": "n02168699",
+    "english": "long-horned beetle",
+    "russian": "Long-Horned Beetle"
+  },
+  {
+    "synset": "n02169497",
+    "english": "leaf beetle",
+    "russian": "Leaf Beetle"
+  },
+  {
+    "synset": "n02172182",
+    "english": "dung beetle",
+    "russian": "Dung Beetle"
+  },
+  {
+    "synset": "n02174001",
+    "english": "rhinoceros beetle",
+    "russian": "Rhinoceros Beetle"
+  },
+  {
+    "synset": "n02177972",
+    "english": "weevil",
+    "russian": "Weevil"
+  },
+  {
+    "synset": "n02190166",
+    "english": "fly",
+    "russian": "Fly"
+  },
+  {
+    "synset": "n02206856",
+    "english": "bee",
+    "russian": "Bee"
+  },
+  {
+    "synset": "n02219486",
+    "english": "ant",
+    "russian": "Ant"
+  },
+  {
+    "synset": "n02226429",
+    "english": "grasshopper",
+    "russian": "Grasshopper"
+  },
+  {
+    "synset": "n02229544",
+    "english": "cricket",
+    "russian": "Cricket"
+  },
+  {
+    "synset": "n02231487",
+    "english": "walking stick",
+    "russian": "Walking Stick"
+  },
+  {
+    "synset": "n02233338",
+    "english": "cockroach",
+    "russian": "Cockroach"
+  },
+  {
+    "synset": "n02236044",
+    "english": "mantis",
+    "russian": "Mantis"
+  },
+  {
+    "synset": "n02256656",
+    "english": "cicada",
+    "russian": "Cicada"
+  },
+  {
+    "synset": "n02259212",
+    "english": "leafhopper",
+    "russian": "Leafhopper"
+  },
+  {
+    "synset": "n02264363",
+    "english": "lacewing",
+    "russian": "Lacewing"
+  },
+  {
+    "synset": "n02268443",
+    "english": "dragonfly",
+    "russian": "Dragonfly"
+  },
+  {
+    "synset": "n02268853",
+    "english": "damselfly",
+    "russian": "Damselfly"
+  },
+  {
+    "synset": "n02276258",
+    "english": "admiral",
+    "russian": "Admiral"
+  },
+  {
+    "synset": "n02277742",
+    "english": "ringlet",
+    "russian": "Ringlet"
+  },
+  {
+    "synset": "n02279972",
+    "english": "monarch",
+    "russian": "Monarch"
+  },
+  {
+    "synset": "n02280649",
+    "english": "cabbage butterfly",
+    "russian": "Cabbage Butterfly"
+  },
+  {
+    "synset": "n02281406",
+    "english": "sulphur butterfly",
+    "russian": "Sulphur Butterfly"
+  },
+  {
+    "synset": "n02281787",
+    "english": "lycaenid",
+    "russian": "Lycaenid"
+  },
+  {
+    "synset": "n02317335",
+    "english": "starfish",
+    "russian": "Starfish"
+  },
+  {
+    "synset": "n02319095",
+    "english": "sea urchin",
+    "russian": "Sea Urchin"
+  },
+  {
+    "synset": "n02321529",
+    "english": "sea cucumber",
+    "russian": "Sea Cucumber"
+  },
+  {
+    "synset": "n02325366",
+    "english": "wood rabbit",
+    "russian": "Wood Rabbit"
+  },
+  {
+    "synset": "n02326432",
+    "english": "hare",
+    "russian": "Hare"
+  },
+  {
+    "synset": "n02328150",
+    "english": "Angora",
+    "russian": "Angora"
+  },
+  {
+    "synset": "n02342885",
+    "english": "hamster",
+    "russian": "Hamster"
+  },
+  {
+    "synset": "n02346627",
+    "english": "porcupine",
+    "russian": "Porcupine"
+  },
+  {
+    "synset": "n02356798",
+    "english": "fox squirrel",
+    "russian": "Fox Squirrel"
+  },
+  {
+    "synset": "n02361337",
+    "english": "marmot",
+    "russian": "Marmot"
+  },
+  {
+    "synset": "n02363005",
+    "english": "beaver",
+    "russian": "Beaver"
+  },
+  {
+    "synset": "n02364673",
+    "english": "guinea pig",
+    "russian": "Guinea Pig"
+  },
+  {
+    "synset": "n02389026",
+    "english": "sorrel",
+    "russian": "Sorrel"
+  },
+  {
+    "synset": "n02391049",
+    "english": "zebra",
+    "russian": "Zebra"
+  },
+  {
+    "synset": "n02395406",
+    "english": "hog",
+    "russian": "Hog"
+  },
+  {
+    "synset": "n02396427",
+    "english": "wild boar",
+    "russian": "Wild Boar"
+  },
+  {
+    "synset": "n02397096",
+    "english": "warthog",
+    "russian": "Warthog"
+  },
+  {
+    "synset": "n02398521",
+    "english": "hippopotamus",
+    "russian": "Hippopotamus"
+  },
+  {
+    "synset": "n02403003",
+    "english": "ox",
+    "russian": "Ox"
+  },
+  {
+    "synset": "n02408429",
+    "english": "water buffalo",
+    "russian": "Water Buffalo"
+  },
+  {
+    "synset": "n02410509",
+    "english": "bison",
+    "russian": "Bison"
+  },
+  {
+    "synset": "n02412080",
+    "english": "ram",
+    "russian": "Ram"
+  },
+  {
+    "synset": "n02415577",
+    "english": "bighorn",
+    "russian": "Bighorn"
+  },
+  {
+    "synset": "n02417914",
+    "english": "ibex",
+    "russian": "Ibex"
+  },
+  {
+    "synset": "n02422106",
+    "english": "hartebeest",
+    "russian": "Hartebeest"
+  },
+  {
+    "synset": "n02422699",
+    "english": "impala",
+    "russian": "Impala"
+  },
+  {
+    "synset": "n02423022",
+    "english": "gazelle",
+    "russian": "Gazelle"
+  },
+  {
+    "synset": "n02437312",
+    "english": "Arabian camel",
+    "russian": "Arabian Camel"
+  },
+  {
+    "synset": "n02437616",
+    "english": "llama",
+    "russian": "Llama"
+  },
+  {
+    "synset": "n02441942",
+    "english": "weasel",
+    "russian": "Weasel"
+  },
+  {
+    "synset": "n02442845",
+    "english": "mink",
+    "russian": "Mink"
+  },
+  {
+    "synset": "n02443114",
+    "english": "polecat",
+    "russian": "Polecat"
+  },
+  {
+    "synset": "n02443484",
+    "english": "black-footed ferret",
+    "russian": "Black-Footed Ferret"
+  },
+  {
+    "synset": "n02444819",
+    "english": "otter",
+    "russian": "Otter"
+  },
+  {
+    "synset": "n02445715",
+    "english": "skunk",
+    "russian": "Skunk"
+  },
+  {
+    "synset": "n02447366",
+    "english": "badger",
+    "russian": "Badger"
+  },
+  {
+    "synset": "n02454379",
+    "english": "armadillo",
+    "russian": "Armadillo"
+  },
+  {
+    "synset": "n02457408",
+    "english": "three-toed sloth",
+    "russian": "Three-Toed Sloth"
+  },
+  {
+    "synset": "n02480495",
+    "english": "orangutan",
+    "russian": "Orangutan"
+  },
+  {
+    "synset": "n02480855",
+    "english": "gorilla",
+    "russian": "Gorilla"
+  },
+  {
+    "synset": "n02481823",
+    "english": "chimpanzee",
+    "russian": "Chimpanzee"
+  },
+  {
+    "synset": "n02483362",
+    "english": "gibbon",
+    "russian": "Gibbon"
+  },
+  {
+    "synset": "n02483708",
+    "english": "siamang",
+    "russian": "Siamang"
+  },
+  {
+    "synset": "n02484975",
+    "english": "guenon",
+    "russian": "Guenon"
+  },
+  {
+    "synset": "n02486261",
+    "english": "patas",
+    "russian": "Patas"
+  },
+  {
+    "synset": "n02486410",
+    "english": "baboon",
+    "russian": "Baboon"
+  },
+  {
+    "synset": "n02487347",
+    "english": "macaque",
+    "russian": "Macaque"
+  },
+  {
+    "synset": "n02488291",
+    "english": "langur",
+    "russian": "Langur"
+  },
+  {
+    "synset": "n02488702",
+    "english": "colobus",
+    "russian": "Colobus"
+  },
+  {
+    "synset": "n02489166",
+    "english": "proboscis monkey",
+    "russian": "Proboscis Monkey"
+  },
+  {
+    "synset": "n02490219",
+    "english": "marmoset",
+    "russian": "Marmoset"
+  },
+  {
+    "synset": "n02492035",
+    "english": "capuchin",
+    "russian": "Capuchin"
+  },
+  {
+    "synset": "n02492660",
+    "english": "howler monkey",
+    "russian": "Howler Monkey"
+  },
+  {
+    "synset": "n02493509",
+    "english": "titi",
+    "russian": "Titi"
+  },
+  {
+    "synset": "n02493793",
+    "english": "spider monkey",
+    "russian": "Spider Monkey"
+  },
+  {
+    "synset": "n02494079",
+    "english": "squirrel monkey",
+    "russian": "Squirrel Monkey"
+  },
+  {
+    "synset": "n02497673",
+    "english": "Madagascar cat",
+    "russian": "Madagascar Cat"
+  },
+  {
+    "synset": "n02500267",
+    "english": "indri",
+    "russian": "Indri"
+  },
+  {
+    "synset": "n02504013",
+    "english": "Indian elephant",
+    "russian": "Indian Elephant"
+  },
+  {
+    "synset": "n02504458",
+    "english": "African elephant",
+    "russian": "African Elephant"
+  },
+  {
+    "synset": "n02509815",
+    "english": "lesser panda",
+    "russian": "Lesser Panda"
+  },
+  {
+    "synset": "n02510455",
+    "english": "giant panda",
+    "russian": "Giant Panda"
+  },
+  {
+    "synset": "n02514041",
+    "english": "barracouta",
+    "russian": "Barracouta"
+  },
+  {
+    "synset": "n02526121",
+    "english": "eel",
+    "russian": "Eel"
+  },
+  {
+    "synset": "n02536864",
+    "english": "coho",
+    "russian": "Coho"
+  },
+  {
+    "synset": "n02606052",
+    "english": "rock beauty",
+    "russian": "Rock Beauty"
+  },
+  {
+    "synset": "n02607072",
+    "english": "anemone fish",
+    "russian": "Anemone Fish"
+  },
+  {
+    "synset": "n02640242",
+    "english": "sturgeon",
+    "russian": "Sturgeon"
+  },
+  {
+    "synset": "n02641379",
+    "english": "gar",
+    "russian": "Gar"
+  },
+  {
+    "synset": "n02643566",
+    "english": "lionfish",
+    "russian": "Lionfish"
+  },
+  {
+    "synset": "n02655020",
+    "english": "puffer",
+    "russian": "Puffer"
+  },
+  {
+    "synset": "n02666196",
+    "english": "abacus",
+    "russian": "Abacus"
+  },
+  {
+    "synset": "n02667093",
+    "english": "abaya",
+    "russian": "Abaya"
+  },
+  {
+    "synset": "n02669723",
+    "english": "academic gown",
+    "russian": "Academic Gown"
+  },
+  {
+    "synset": "n02672831",
+    "english": "accordion",
+    "russian": "Accordion"
+  },
+  {
+    "synset": "n02676566",
+    "english": "acoustic guitar",
+    "russian": "Acoustic Guitar"
+  },
+  {
+    "synset": "n02687172",
+    "english": "aircraft carrier",
+    "russian": "Aircraft Carrier"
+  },
+  {
+    "synset": "n02690373",
+    "english": "airliner",
+    "russian": "Airliner"
+  },
+  {
+    "synset": "n02692877",
+    "english": "airship",
+    "russian": "Airship"
+  },
+  {
+    "synset": "n02699494",
+    "english": "altar",
+    "russian": "Altar"
+  },
+  {
+    "synset": "n02701002",
+    "english": "ambulance",
+    "russian": "Ambulance"
+  },
+  {
+    "synset": "n02704792",
+    "english": "amphibian",
+    "russian": "Amphibian"
+  },
+  {
+    "synset": "n02708093",
+    "english": "analog clock",
+    "russian": "Analog Clock"
+  },
+  {
+    "synset": "n02727426",
+    "english": "apiary",
+    "russian": "Apiary"
+  },
+  {
+    "synset": "n02730930",
+    "english": "apron",
+    "russian": "Apron"
+  },
+  {
+    "synset": "n02747177",
+    "english": "ashcan",
+    "russian": "Ashcan"
+  },
+  {
+    "synset": "n02749479",
+    "english": "assault rifle",
+    "russian": "Assault Rifle"
+  },
+  {
+    "synset": "n02769748",
+    "english": "backpack",
+    "russian": "Backpack"
+  },
+  {
+    "synset": "n02776631",
+    "english": "bakery",
+    "russian": "Bakery"
+  },
+  {
+    "synset": "n02777292",
+    "english": "balance beam",
+    "russian": "Balance Beam"
+  },
+  {
+    "synset": "n02782093",
+    "english": "balloon",
+    "russian": "Balloon"
+  },
+  {
+    "synset": "n02783161",
+    "english": "ballpoint",
+    "russian": "Ballpoint"
+  },
+  {
+    "synset": "n02786058",
+    "english": "Band Aid",
+    "russian": "Band Aid"
+  },
+  {
+    "synset": "n02787622",
+    "english": "banjo",
+    "russian": "Banjo"
+  },
+  {
+    "synset": "n02788148",
+    "english": "bannister",
+    "russian": "Bannister"
+  },
+  {
+    "synset": "n02790996",
+    "english": "barbell",
+    "russian": "Barbell"
+  },
+  {
+    "synset": "n02791124",
+    "english": "barber chair",
+    "russian": "Barber Chair"
+  },
+  {
+    "synset": "n02791270",
+    "english": "barbershop",
+    "russian": "Barbershop"
+  },
+  {
+    "synset": "n02793495",
+    "english": "barn",
+    "russian": "Barn"
+  },
+  {
+    "synset": "n02794156",
+    "english": "barometer",
+    "russian": "Barometer"
+  },
+  {
+    "synset": "n02795169",
+    "english": "barrel",
+    "russian": "Barrel"
+  },
+  {
+    "synset": "n02797295",
+    "english": "barrow",
+    "russian": "Barrow"
+  },
+  {
+    "synset": "n02799071",
+    "english": "baseball",
+    "russian": "Baseball"
+  },
+  {
+    "synset": "n02802426",
+    "english": "basketball",
+    "russian": "Basketball"
+  },
+  {
+    "synset": "n02804414",
+    "english": "bassinet",
+    "russian": "Bassinet"
+  },
+  {
+    "synset": "n02804610",
+    "english": "bassoon",
+    "russian": "Bassoon"
+  },
+  {
+    "synset": "n02807133",
+    "english": "bathing cap",
+    "russian": "Bathing Cap"
+  },
+  {
+    "synset": "n02808304",
+    "english": "bath towel",
+    "russian": "Bath Towel"
+  },
+  {
+    "synset": "n02808440",
+    "english": "bathtub",
+    "russian": "Bathtub"
+  },
+  {
+    "synset": "n02814533",
+    "english": "beach wagon",
+    "russian": "Beach Wagon"
+  },
+  {
+    "synset": "n02814860",
+    "english": "beacon",
+    "russian": "Beacon"
+  },
+  {
+    "synset": "n02815834",
+    "english": "beaker",
+    "russian": "Beaker"
+  },
+  {
+    "synset": "n02817516",
+    "english": "bearskin",
+    "russian": "Bearskin"
+  },
+  {
+    "synset": "n02823428",
+    "english": "beer bottle",
+    "russian": "Beer Bottle"
+  },
+  {
+    "synset": "n02823750",
+    "english": "beer glass",
+    "russian": "Beer Glass"
+  },
+  {
+    "synset": "n02825657",
+    "english": "bell cote",
+    "russian": "Bell Cote"
+  },
+  {
+    "synset": "n02834397",
+    "english": "bib",
+    "russian": "Bib"
+  },
+  {
+    "synset": "n02835271",
+    "english": "bicycle-built-for-two",
+    "russian": "Bicycle-Built-For-Two"
+  },
+  {
+    "synset": "n02837789",
+    "english": "bikini",
+    "russian": "Bikini"
+  },
+  {
+    "synset": "n02840245",
+    "english": "binder",
+    "russian": "Binder"
+  },
+  {
+    "synset": "n02841315",
+    "english": "binoculars",
+    "russian": "Binoculars"
+  },
+  {
+    "synset": "n02843684",
+    "english": "birdhouse",
+    "russian": "Birdhouse"
+  },
+  {
+    "synset": "n02859443",
+    "english": "boathouse",
+    "russian": "Boathouse"
+  },
+  {
+    "synset": "n02860847",
+    "english": "bobsled",
+    "russian": "Bobsled"
+  },
+  {
+    "synset": "n02865351",
+    "english": "bolo tie",
+    "russian": "Bolo Tie"
+  },
+  {
+    "synset": "n02869837",
+    "english": "bonnet",
+    "russian": "Bonnet"
+  },
+  {
+    "synset": "n02870880",
+    "english": "bookcase",
+    "russian": "Bookcase"
+  },
+  {
+    "synset": "n02871525",
+    "english": "bookshop",
+    "russian": "Bookshop"
+  },
+  {
+    "synset": "n02877765",
+    "english": "bottlecap",
+    "russian": "Bottlecap"
+  },
+  {
+    "synset": "n02879718",
+    "english": "bow",
+    "russian": "Bow"
+  },
+  {
+    "synset": "n02883205",
+    "english": "bow tie",
+    "russian": "Bow Tie"
+  },
+  {
+    "synset": "n02892201",
+    "english": "brass",
+    "russian": "Brass"
+  },
+  {
+    "synset": "n02892767",
+    "english": "brassiere",
+    "russian": "Brassiere"
+  },
+  {
+    "synset": "n02894605",
+    "english": "breakwater",
+    "russian": "Breakwater"
+  },
+  {
+    "synset": "n02895154",
+    "english": "breastplate",
+    "russian": "Breastplate"
+  },
+  {
+    "synset": "n02906734",
+    "english": "broom",
+    "russian": "Broom"
+  },
+  {
+    "synset": "n02909870",
+    "english": "bucket",
+    "russian": "Bucket"
+  },
+  {
+    "synset": "n02910353",
+    "english": "buckle",
+    "russian": "Buckle"
+  },
+  {
+    "synset": "n02916936",
+    "english": "bulletproof vest",
+    "russian": "Bulletproof Vest"
+  },
+  {
+    "synset": "n02917067",
+    "english": "bullet train",
+    "russian": "Bullet Train"
+  },
+  {
+    "synset": "n02927161",
+    "english": "butcher shop",
+    "russian": "Butcher Shop"
+  },
+  {
+    "synset": "n02930766",
+    "english": "cab",
+    "russian": "Cab"
+  },
+  {
+    "synset": "n02939185",
+    "english": "caldron",
+    "russian": "Caldron"
+  },
+  {
+    "synset": "n02948072",
+    "english": "candle",
+    "russian": "Candle"
+  },
+  {
+    "synset": "n02950826",
+    "english": "cannon",
+    "russian": "Cannon"
+  },
+  {
+    "synset": "n02951358",
+    "english": "canoe",
+    "russian": "Canoe"
+  },
+  {
+    "synset": "n02951585",
+    "english": "can opener",
+    "russian": "Can Opener"
+  },
+  {
+    "synset": "n02963159",
+    "english": "cardigan",
+    "russian": "Cardigan"
+  },
+  {
+    "synset": "n02965783",
+    "english": "car mirror",
+    "russian": "Car Mirror"
+  },
+  {
+    "synset": "n02966193",
+    "english": "carousel",
+    "russian": "Carousel"
+  },
+  {
+    "synset": "n02966687",
+    "english": "carpenter's kit",
+    "russian": "Carpenter'S Kit"
+  },
+  {
+    "synset": "n02971356",
+    "english": "carton",
+    "russian": "Carton"
+  },
+  {
+    "synset": "n02974003",
+    "english": "car wheel",
+    "russian": "Car Wheel"
+  },
+  {
+    "synset": "n02977058",
+    "english": "cash machine",
+    "russian": "Cash Machine"
+  },
+  {
+    "synset": "n02978881",
+    "english": "cassette",
+    "russian": "Cassette"
+  },
+  {
+    "synset": "n02979186",
+    "english": "cassette player",
+    "russian": "Кассетный плеер"
+  },
+  {
+    "synset": "n02980441",
+    "english": "castle",
+    "russian": "Castle"
+  },
+  {
+    "synset": "n02981792",
+    "english": "catamaran",
+    "russian": "Catamaran"
+  },
+  {
+    "synset": "n02988304",
+    "english": "CD player",
+    "russian": "Cd Player"
+  },
+  {
+    "synset": "n02992211",
+    "english": "cello",
+    "russian": "Cello"
+  },
+  {
+    "synset": "n02992529",
+    "english": "cellular telephone",
+    "russian": "Мобильный телефон"
+  },
+  {
+    "synset": "n02999410",
+    "english": "chain",
+    "russian": "Chain"
+  },
+  {
+    "synset": "n03000134",
+    "english": "chainlink fence",
+    "russian": "Chainlink Fence"
+  },
+  {
+    "synset": "n03000247",
+    "english": "chain mail",
+    "russian": "Chain Mail"
+  },
+  {
+    "synset": "n03000684",
+    "english": "chain saw",
+    "russian": "Бензопила"
+  },
+  {
+    "synset": "n03014705",
+    "english": "chest",
+    "russian": "Chest"
+  },
+  {
+    "synset": "n03016953",
+    "english": "chiffonier",
+    "russian": "Chiffonier"
+  },
+  {
+    "synset": "n03017168",
+    "english": "chime",
+    "russian": "Chime"
+  },
+  {
+    "synset": "n03018349",
+    "english": "china cabinet",
+    "russian": "China Cabinet"
+  },
+  {
+    "synset": "n03026506",
+    "english": "Christmas stocking",
+    "russian": "Christmas Stocking"
+  },
+  {
+    "synset": "n03028079",
+    "english": "church",
+    "russian": "Церковь"
+  },
+  {
+    "synset": "n03032252",
+    "english": "cinema",
+    "russian": "Cinema"
+  },
+  {
+    "synset": "n03041632",
+    "english": "cleaver",
+    "russian": "Cleaver"
+  },
+  {
+    "synset": "n03042490",
+    "english": "cliff dwelling",
+    "russian": "Cliff Dwelling"
+  },
+  {
+    "synset": "n03045698",
+    "english": "cloak",
+    "russian": "Cloak"
+  },
+  {
+    "synset": "n03047690",
+    "english": "clog",
+    "russian": "Clog"
+  },
+  {
+    "synset": "n03062245",
+    "english": "cocktail shaker",
+    "russian": "Cocktail Shaker"
+  },
+  {
+    "synset": "n03063599",
+    "english": "coffee mug",
+    "russian": "Кружка"
+  },
+  {
+    "synset": "n03063689",
+    "english": "coffeepot",
+    "russian": "Coffeepot"
+  },
+  {
+    "synset": "n03065424",
+    "english": "coil",
+    "russian": "Coil"
+  },
+  {
+    "synset": "n03075370",
+    "english": "combination lock",
+    "russian": "Combination Lock"
+  },
+  {
+    "synset": "n03085013",
+    "english": "computer keyboard",
+    "russian": "Клавиатура"
+  },
+  {
+    "synset": "n03089624",
+    "english": "confectionery",
+    "russian": "Confectionery"
+  },
+  {
+    "synset": "n03095699",
+    "english": "container ship",
+    "russian": "Container Ship"
+  },
+  {
+    "synset": "n03100240",
+    "english": "convertible",
+    "russian": "Convertible"
+  },
+  {
+    "synset": "n03109150",
+    "english": "corkscrew",
+    "russian": "Corkscrew"
+  },
+  {
+    "synset": "n03110669",
+    "english": "cornet",
+    "russian": "Cornet"
+  },
+  {
+    "synset": "n03124043",
+    "english": "cowboy boot",
+    "russian": "Cowboy Boot"
+  },
+  {
+    "synset": "n03124170",
+    "english": "cowboy hat",
+    "russian": "Cowboy Hat"
+  },
+  {
+    "synset": "n03125729",
+    "english": "cradle",
+    "russian": "Cradle"
+  },
+  {
+    "synset": "n03126707",
+    "english": "crane",
+    "russian": "Crane"
+  },
+  {
+    "synset": "n03127747",
+    "english": "crash helmet",
+    "russian": "Crash Helmet"
+  },
+  {
+    "synset": "n03127925",
+    "english": "crate",
+    "russian": "Crate"
+  },
+  {
+    "synset": "n03131574",
+    "english": "crib",
+    "russian": "Crib"
+  },
+  {
+    "synset": "n03133878",
+    "english": "Crock Pot",
+    "russian": "Crock Pot"
+  },
+  {
+    "synset": "n03134739",
+    "english": "croquet ball",
+    "russian": "Croquet Ball"
+  },
+  {
+    "synset": "n03141823",
+    "english": "crutch",
+    "russian": "Crutch"
+  },
+  {
+    "synset": "n03146219",
+    "english": "cuirass",
+    "russian": "Cuirass"
+  },
+  {
+    "synset": "n03160309",
+    "english": "dam",
+    "russian": "Dam"
+  },
+  {
+    "synset": "n03179701",
+    "english": "desk",
+    "russian": "Desk"
+  },
+  {
+    "synset": "n03180011",
+    "english": "desktop computer",
+    "russian": "Настольный компьютер"
+  },
+  {
+    "synset": "n03187595",
+    "english": "dial telephone",
+    "russian": "Dial Telephone"
+  },
+  {
+    "synset": "n03188531",
+    "english": "diaper",
+    "russian": "Diaper"
+  },
+  {
+    "synset": "n03196217",
+    "english": "digital clock",
+    "russian": "Digital Clock"
+  },
+  {
+    "synset": "n03197337",
+    "english": "digital watch",
+    "russian": "Digital Watch"
+  },
+  {
+    "synset": "n03201208",
+    "english": "dining table",
+    "russian": "Dining Table"
+  },
+  {
+    "synset": "n03207743",
+    "english": "dishrag",
+    "russian": "Dishrag"
+  },
+  {
+    "synset": "n03207941",
+    "english": "dishwasher",
+    "russian": "Dishwasher"
+  },
+  {
+    "synset": "n03208938",
+    "english": "disk brake",
+    "russian": "Disk Brake"
+  },
+  {
+    "synset": "n03216828",
+    "english": "dock",
+    "russian": "Dock"
+  },
+  {
+    "synset": "n03218198",
+    "english": "dogsled",
+    "russian": "Dogsled"
+  },
+  {
+    "synset": "n03220513",
+    "english": "dome",
+    "russian": "Dome"
+  },
+  {
+    "synset": "n03223299",
+    "english": "doormat",
+    "russian": "Doormat"
+  },
+  {
+    "synset": "n03240683",
+    "english": "drilling platform",
+    "russian": "Drilling Platform"
+  },
+  {
+    "synset": "n03249569",
+    "english": "drum",
+    "russian": "Drum"
+  },
+  {
+    "synset": "n03250847",
+    "english": "drumstick",
+    "russian": "Drumstick"
+  },
+  {
+    "synset": "n03255030",
+    "english": "dumbbell",
+    "russian": "Dumbbell"
+  },
+  {
+    "synset": "n03259280",
+    "english": "Dutch oven",
+    "russian": "Dutch Oven"
+  },
+  {
+    "synset": "n03271574",
+    "english": "electric fan",
+    "russian": "Electric Fan"
+  },
+  {
+    "synset": "n03272010",
+    "english": "electric guitar",
+    "russian": "Electric Guitar"
+  },
+  {
+    "synset": "n03272562",
+    "english": "electric locomotive",
+    "russian": "Electric Locomotive"
+  },
+  {
+    "synset": "n03290653",
+    "english": "entertainment center",
+    "russian": "Entertainment Center"
+  },
+  {
+    "synset": "n03291819",
+    "english": "envelope",
+    "russian": "Конверт"
+  },
+  {
+    "synset": "n03297495",
+    "english": "espresso maker",
+    "russian": "Espresso Maker"
+  },
+  {
+    "synset": "n03314780",
+    "english": "face powder",
+    "russian": "Face Powder"
+  },
+  {
+    "synset": "n03325584",
+    "english": "feather boa",
+    "russian": "Feather Boa"
+  },
+  {
+    "synset": "n03337140",
+    "english": "file",
+    "russian": "File"
+  },
+  {
+    "synset": "n03344393",
+    "english": "fireboat",
+    "russian": "Fireboat"
+  },
+  {
+    "synset": "n03345487",
+    "english": "fire engine",
+    "russian": "Fire Engine"
+  },
+  {
+    "synset": "n03347037",
+    "english": "fire screen",
+    "russian": "Fire Screen"
+  },
+  {
+    "synset": "n03355925",
+    "english": "flagpole",
+    "russian": "Flagpole"
+  },
+  {
+    "synset": "n03372029",
+    "english": "flute",
+    "russian": "Flute"
+  },
+  {
+    "synset": "n03376595",
+    "english": "folding chair",
+    "russian": "Folding Chair"
+  },
+  {
+    "synset": "n03379051",
+    "english": "football helmet",
+    "russian": "Football Helmet"
+  },
+  {
+    "synset": "n03384352",
+    "english": "forklift",
+    "russian": "Forklift"
+  },
+  {
+    "synset": "n03388043",
+    "english": "fountain",
+    "russian": "Fountain"
+  },
+  {
+    "synset": "n03388183",
+    "english": "fountain pen",
+    "russian": "Fountain Pen"
+  },
+  {
+    "synset": "n03388549",
+    "english": "four-poster",
+    "russian": "Four-Poster"
+  },
+  {
+    "synset": "n03393912",
+    "english": "freight car",
+    "russian": "Freight Car"
+  },
+  {
+    "synset": "n03394916",
+    "english": "French horn",
+    "russian": "Валторна"
+  },
+  {
+    "synset": "n03400231",
+    "english": "frying pan",
+    "russian": "Frying Pan"
+  },
+  {
+    "synset": "n03404251",
+    "english": "fur coat",
+    "russian": "Fur Coat"
+  },
+  {
+    "synset": "n03417042",
+    "english": "garbage truck",
+    "russian": "Мусоровоз"
+  },
+  {
+    "synset": "n03424325",
+    "english": "gasmask",
+    "russian": "Gasmask"
+  },
+  {
+    "synset": "n03425413",
+    "english": "gas pump",
+    "russian": "Топливная колонка"
+  },
+  {
+    "synset": "n03443371",
+    "english": "goblet",
+    "russian": "Goblet"
+  },
+  {
+    "synset": "n03444034",
+    "english": "go-kart",
+    "russian": "Go-Kart"
+  },
+  {
+    "synset": "n03445777",
+    "english": "golf ball",
+    "russian": "Мяч для гольфа"
+  },
+  {
+    "synset": "n03445924",
+    "english": "golfcart",
+    "russian": "Golfcart"
+  },
+  {
+    "synset": "n03447447",
+    "english": "gondola",
+    "russian": "Gondola"
+  },
+  {
+    "synset": "n03447721",
+    "english": "gong",
+    "russian": "Gong"
+  },
+  {
+    "synset": "n03450230",
+    "english": "gown",
+    "russian": "Gown"
+  },
+  {
+    "synset": "n03452741",
+    "english": "grand piano",
+    "russian": "Grand Piano"
+  },
+  {
+    "synset": "n03457902",
+    "english": "greenhouse",
+    "russian": "Greenhouse"
+  },
+  {
+    "synset": "n03459775",
+    "english": "grille",
+    "russian": "Grille"
+  },
+  {
+    "synset": "n03461385",
+    "english": "grocery store",
+    "russian": "Grocery Store"
+  },
+  {
+    "synset": "n03467068",
+    "english": "guillotine",
+    "russian": "Guillotine"
+  },
+  {
+    "synset": "n03476684",
+    "english": "hair slide",
+    "russian": "Hair Slide"
+  },
+  {
+    "synset": "n03476991",
+    "english": "hair spray",
+    "russian": "Hair Spray"
+  },
+  {
+    "synset": "n03478589",
+    "english": "half track",
+    "russian": "Half Track"
+  },
+  {
+    "synset": "n03481172",
+    "english": "hammer",
+    "russian": "Hammer"
+  },
+  {
+    "synset": "n03482405",
+    "english": "hamper",
+    "russian": "Hamper"
+  },
+  {
+    "synset": "n03483316",
+    "english": "hand blower",
+    "russian": "Hand Blower"
+  },
+  {
+    "synset": "n03485407",
+    "english": "hand-held computer",
+    "russian": "Hand-Held Computer"
+  },
+  {
+    "synset": "n03485794",
+    "english": "handkerchief",
+    "russian": "Handkerchief"
+  },
+  {
+    "synset": "n03492542",
+    "english": "hard disc",
+    "russian": "Hard Disc"
+  },
+  {
+    "synset": "n03494278",
+    "english": "harmonica",
+    "russian": "Harmonica"
+  },
+  {
+    "synset": "n03495258",
+    "english": "harp",
+    "russian": "Harp"
+  },
+  {
+    "synset": "n03496892",
+    "english": "harvester",
+    "russian": "Harvester"
+  },
+  {
+    "synset": "n03498962",
+    "english": "hatchet",
+    "russian": "Hatchet"
+  },
+  {
+    "synset": "n03527444",
+    "english": "holster",
+    "russian": "Holster"
+  },
+  {
+    "synset": "n03529860",
+    "english": "home theater",
+    "russian": "Home Theater"
+  },
+  {
+    "synset": "n03530642",
+    "english": "honeycomb",
+    "russian": "Honeycomb"
+  },
+  {
+    "synset": "n03532672",
+    "english": "hook",
+    "russian": "Hook"
+  },
+  {
+    "synset": "n03534580",
+    "english": "hoopskirt",
+    "russian": "Hoopskirt"
+  },
+  {
+    "synset": "n03535780",
+    "english": "horizontal bar",
+    "russian": "Horizontal Bar"
+  },
+  {
+    "synset": "n03538406",
+    "english": "horse cart",
+    "russian": "Horse Cart"
+  },
+  {
+    "synset": "n03544143",
+    "english": "hourglass",
+    "russian": "Hourglass"
+  },
+  {
+    "synset": "n03584254",
+    "english": "iPod",
+    "russian": "Ipod"
+  },
+  {
+    "synset": "n03584829",
+    "english": "iron",
+    "russian": "Iron"
+  },
+  {
+    "synset": "n03590841",
+    "english": "jack-o'-lantern",
+    "russian": "Jack-O'-Lantern"
+  },
+  {
+    "synset": "n03594734",
+    "english": "jean",
+    "russian": "Jean"
+  },
+  {
+    "synset": "n03594945",
+    "english": "jeep",
+    "russian": "Jeep"
+  },
+  {
+    "synset": "n03595614",
+    "english": "jersey",
+    "russian": "Jersey"
+  },
+  {
+    "synset": "n03598930",
+    "english": "jigsaw puzzle",
+    "russian": "Jigsaw Puzzle"
+  },
+  {
+    "synset": "n03599486",
+    "english": "jinrikisha",
+    "russian": "Jinrikisha"
+  },
+  {
+    "synset": "n03602883",
+    "english": "joystick",
+    "russian": "Joystick"
+  },
+  {
+    "synset": "n03617480",
+    "english": "kimono",
+    "russian": "Kimono"
+  },
+  {
+    "synset": "n03623198",
+    "english": "knee pad",
+    "russian": "Knee Pad"
+  },
+  {
+    "synset": "n03627232",
+    "english": "knot",
+    "russian": "Knot"
+  },
+  {
+    "synset": "n03630383",
+    "english": "lab coat",
+    "russian": "Lab Coat"
+  },
+  {
+    "synset": "n03633091",
+    "english": "ladle",
+    "russian": "Ladle"
+  },
+  {
+    "synset": "n03637318",
+    "english": "lampshade",
+    "russian": "Lampshade"
+  },
+  {
+    "synset": "n03642806",
+    "english": "laptop",
+    "russian": "Ноутбук"
+  },
+  {
+    "synset": "n03649909",
+    "english": "lawn mower",
+    "russian": "Lawn Mower"
+  },
+  {
+    "synset": "n03657121",
+    "english": "lens cap",
+    "russian": "Lens Cap"
+  },
+  {
+    "synset": "n03658185",
+    "english": "letter opener",
+    "russian": "Letter Opener"
+  },
+  {
+    "synset": "n03661043",
+    "english": "library",
+    "russian": "Library"
+  },
+  {
+    "synset": "n03662601",
+    "english": "lifeboat",
+    "russian": "Lifeboat"
+  },
+  {
+    "synset": "n03666591",
+    "english": "lighter",
+    "russian": "Lighter"
+  },
+  {
+    "synset": "n03670208",
+    "english": "limousine",
+    "russian": "Limousine"
+  },
+  {
+    "synset": "n03673027",
+    "english": "liner",
+    "russian": "Liner"
+  },
+  {
+    "synset": "n03676483",
+    "english": "lipstick",
+    "russian": "Lipstick"
+  },
+  {
+    "synset": "n03680355",
+    "english": "Loafer",
+    "russian": "Loafer"
+  },
+  {
+    "synset": "n03690938",
+    "english": "lotion",
+    "russian": "Lotion"
+  },
+  {
+    "synset": "n03691459",
+    "english": "loudspeaker",
+    "russian": "Loudspeaker"
+  },
+  {
+    "synset": "n03692522",
+    "english": "loupe",
+    "russian": "Loupe"
+  },
+  {
+    "synset": "n03697007",
+    "english": "lumbermill",
+    "russian": "Lumbermill"
+  },
+  {
+    "synset": "n03706229",
+    "english": "magnetic compass",
+    "russian": "Magnetic Compass"
+  },
+  {
+    "synset": "n03709823",
+    "english": "mailbag",
+    "russian": "Mailbag"
+  },
+  {
+    "synset": "n03710193",
+    "english": "mailbox",
+    "russian": "Mailbox"
+  },
+  {
+    "synset": "n03710637",
+    "english": "maillot",
+    "russian": "Maillot"
+  },
+  {
+    "synset": "n03710721",
+    "english": "maillot tank suit",
+    "russian": "Maillot Tank Suit"
+  },
+  {
+    "synset": "n03717622",
+    "english": "manhole cover",
+    "russian": "Manhole Cover"
+  },
+  {
+    "synset": "n03720891",
+    "english": "maraca",
+    "russian": "Maraca"
+  },
+  {
+    "synset": "n03721384",
+    "english": "marimba",
+    "russian": "Marimba"
+  },
+  {
+    "synset": "n03724870",
+    "english": "mask",
+    "russian": "Mask"
+  },
+  {
+    "synset": "n03729826",
+    "english": "matchstick",
+    "russian": "Matchstick"
+  },
+  {
+    "synset": "n03733131",
+    "english": "maypole",
+    "russian": "Maypole"
+  },
+  {
+    "synset": "n03733281",
+    "english": "maze",
+    "russian": "Maze"
+  },
+  {
+    "synset": "n03733805",
+    "english": "measuring cup",
+    "russian": "Measuring Cup"
+  },
+  {
+    "synset": "n03742115",
+    "english": "medicine chest",
+    "russian": "Medicine Chest"
+  },
+  {
+    "synset": "n03743016",
+    "english": "megalith",
+    "russian": "Megalith"
+  },
+  {
+    "synset": "n03759954",
+    "english": "microphone",
+    "russian": "Microphone"
+  },
+  {
+    "synset": "n03761084",
+    "english": "microwave",
+    "russian": "Microwave"
+  },
+  {
+    "synset": "n03763968",
+    "english": "military uniform",
+    "russian": "Military Uniform"
+  },
+  {
+    "synset": "n03764736",
+    "english": "milk can",
+    "russian": "Milk Can"
+  },
+  {
+    "synset": "n03769881",
+    "english": "minibus",
+    "russian": "Minibus"
+  },
+  {
+    "synset": "n03770439",
+    "english": "miniskirt",
+    "russian": "Miniskirt"
+  },
+  {
+    "synset": "n03770679",
+    "english": "minivan",
+    "russian": "Minivan"
+  },
+  {
+    "synset": "n03773504",
+    "english": "missile",
+    "russian": "Missile"
+  },
+  {
+    "synset": "n03775071",
+    "english": "mitten",
+    "russian": "Mitten"
+  },
+  {
+    "synset": "n03775546",
+    "english": "mixing bowl",
+    "russian": "Mixing Bowl"
+  },
+  {
+    "synset": "n03776460",
+    "english": "mobile home",
+    "russian": "Mobile Home"
+  },
+  {
+    "synset": "n03777568",
+    "english": "Model T",
+    "russian": "Model T"
+  },
+  {
+    "synset": "n03777754",
+    "english": "modem",
+    "russian": "Modem"
+  },
+  {
+    "synset": "n03781244",
+    "english": "monastery",
+    "russian": "Monastery"
+  },
+  {
+    "synset": "n03782006",
+    "english": "monitor",
+    "russian": "Монитор"
+  },
+  {
+    "synset": "n03785016",
+    "english": "moped",
+    "russian": "Moped"
+  },
+  {
+    "synset": "n03786901",
+    "english": "mortar",
+    "russian": "Mortar"
+  },
+  {
+    "synset": "n03787032",
+    "english": "mortarboard",
+    "russian": "Mortarboard"
+  },
+  {
+    "synset": "n03788195",
+    "english": "mosque",
+    "russian": "Mosque"
+  },
+  {
+    "synset": "n03788365",
+    "english": "mosquito net",
+    "russian": "Mosquito Net"
+  },
+  {
+    "synset": "n03791053",
+    "english": "motor scooter",
+    "russian": "Motor Scooter"
+  },
+  {
+    "synset": "n03792782",
+    "english": "mountain bike",
+    "russian": "Mountain Bike"
+  },
+  {
+    "synset": "n03792972",
+    "english": "mountain tent",
+    "russian": "Mountain Tent"
+  },
+  {
+    "synset": "n03793489",
+    "english": "mouse",
+    "russian": "Mouse"
+  },
+  {
+    "synset": "n03794056",
+    "english": "mousetrap",
+    "russian": "Mousetrap"
+  },
+  {
+    "synset": "n03796401",
+    "english": "moving van",
+    "russian": "Moving Van"
+  },
+  {
+    "synset": "n03803284",
+    "english": "muzzle",
+    "russian": "Muzzle"
+  },
+  {
+    "synset": "n03804744",
+    "english": "nail",
+    "russian": "Nail"
+  },
+  {
+    "synset": "n03814639",
+    "english": "neck brace",
+    "russian": "Neck Brace"
+  },
+  {
+    "synset": "n03814906",
+    "english": "necklace",
+    "russian": "Necklace"
+  },
+  {
+    "synset": "n03825788",
+    "english": "nipple",
+    "russian": "Nipple"
+  },
+  {
+    "synset": "n03832673",
+    "english": "notebook",
+    "russian": "Ноутбук"
+  },
+  {
+    "synset": "n03837869",
+    "english": "obelisk",
+    "russian": "Obelisk"
+  },
+  {
+    "synset": "n03838899",
+    "english": "oboe",
+    "russian": "Oboe"
+  },
+  {
+    "synset": "n03840681",
+    "english": "ocarina",
+    "russian": "Ocarina"
+  },
+  {
+    "synset": "n03841143",
+    "english": "odometer",
+    "russian": "Odometer"
+  },
+  {
+    "synset": "n03843555",
+    "english": "oil filter",
+    "russian": "Oil Filter"
+  },
+  {
+    "synset": "n03854065",
+    "english": "organ",
+    "russian": "Organ"
+  },
+  {
+    "synset": "n03857828",
+    "english": "oscilloscope",
+    "russian": "Oscilloscope"
+  },
+  {
+    "synset": "n03866082",
+    "english": "overskirt",
+    "russian": "Overskirt"
+  },
+  {
+    "synset": "n03868242",
+    "english": "oxcart",
+    "russian": "Oxcart"
+  },
+  {
+    "synset": "n03868863",
+    "english": "oxygen mask",
+    "russian": "Oxygen Mask"
+  },
+  {
+    "synset": "n03871628",
+    "english": "packet",
+    "russian": "Пакет"
+  },
+  {
+    "synset": "n03873416",
+    "english": "paddle",
+    "russian": "Paddle"
+  },
+  {
+    "synset": "n03874293",
+    "english": "paddlewheel",
+    "russian": "Paddlewheel"
+  },
+  {
+    "synset": "n03874599",
+    "english": "padlock",
+    "russian": "Padlock"
+  },
+  {
+    "synset": "n03876231",
+    "english": "paintbrush",
+    "russian": "Paintbrush"
+  },
+  {
+    "synset": "n03877472",
+    "english": "pajama",
+    "russian": "Pajama"
+  },
+  {
+    "synset": "n03877845",
+    "english": "palace",
+    "russian": "Palace"
+  },
+  {
+    "synset": "n03884397",
+    "english": "panpipe",
+    "russian": "Panpipe"
+  },
+  {
+    "synset": "n03887697",
+    "english": "paper towel",
+    "russian": "Paper Towel"
+  },
+  {
+    "synset": "n03888257",
+    "english": "parachute",
+    "russian": "Парашют"
+  },
+  {
+    "synset": "n03888605",
+    "english": "parallel bars",
+    "russian": "Parallel Bars"
+  },
+  {
+    "synset": "n03891251",
+    "english": "park bench",
+    "russian": "Park Bench"
+  },
+  {
+    "synset": "n03891332",
+    "english": "parking meter",
+    "russian": "Parking Meter"
+  },
+  {
+    "synset": "n03895866",
+    "english": "passenger car",
+    "russian": "Passenger Car"
+  },
+  {
+    "synset": "n03899768",
+    "english": "patio",
+    "russian": "Patio"
+  },
+  {
+    "synset": "n03902125",
+    "english": "pay-phone",
+    "russian": "Pay-Phone"
+  },
+  {
+    "synset": "n03903868",
+    "english": "pedestal",
+    "russian": "Pedestal"
+  },
+  {
+    "synset": "n03908618",
+    "english": "pencil box",
+    "russian": "Pencil Box"
+  },
+  {
+    "synset": "n03908714",
+    "english": "pencil sharpener",
+    "russian": "Pencil Sharpener"
+  },
+  {
+    "synset": "n03916031",
+    "english": "perfume",
+    "russian": "Духи"
+  },
+  {
+    "synset": "n03920288",
+    "english": "Petri dish",
+    "russian": "Petri Dish"
+  },
+  {
+    "synset": "n03924679",
+    "english": "photocopier",
+    "russian": "Photocopier"
+  },
+  {
+    "synset": "n03929660",
+    "english": "pick",
+    "russian": "Pick"
+  },
+  {
+    "synset": "n03929855",
+    "english": "pickelhaube",
+    "russian": "Pickelhaube"
+  },
+  {
+    "synset": "n03930313",
+    "english": "picket fence",
+    "russian": "Picket Fence"
+  },
+  {
+    "synset": "n03930630",
+    "english": "pickup",
+    "russian": "Pickup"
+  },
+  {
+    "synset": "n03933933",
+    "english": "pier",
+    "russian": "Pier"
+  },
+  {
+    "synset": "n03935335",
+    "english": "piggy bank",
+    "russian": "Piggy Bank"
+  },
+  {
+    "synset": "n03937543",
+    "english": "pill bottle",
+    "russian": "Флакон с лекарством"
+  },
+  {
+    "synset": "n03938244",
+    "english": "pillow",
+    "russian": "Pillow"
+  },
+  {
+    "synset": "n03942813",
+    "english": "ping-pong ball",
+    "russian": "Ping-Pong Ball"
+  },
+  {
+    "synset": "n03944341",
+    "english": "pinwheel",
+    "russian": "Pinwheel"
+  },
+  {
+    "synset": "n03947888",
+    "english": "pirate",
+    "russian": "Pirate"
+  },
+  {
+    "synset": "n03950228",
+    "english": "pitcher",
+    "russian": "Pitcher"
+  },
+  {
+    "synset": "n03954731",
+    "english": "plane",
+    "russian": "Plane"
+  },
+  {
+    "synset": "n03956157",
+    "english": "planetarium",
+    "russian": "Planetarium"
+  },
+  {
+    "synset": "n03958227",
+    "english": "plastic bag",
+    "russian": "Plastic Bag"
+  },
+  {
+    "synset": "n03961711",
+    "english": "plate rack",
+    "russian": "Plate Rack"
+  },
+  {
+    "synset": "n03967562",
+    "english": "plow",
+    "russian": "Plow"
+  },
+  {
+    "synset": "n03970156",
+    "english": "plunger",
+    "russian": "Plunger"
+  },
+  {
+    "synset": "n03976467",
+    "english": "Polaroid camera",
+    "russian": "Polaroid Camera"
+  },
+  {
+    "synset": "n03976657",
+    "english": "pole",
+    "russian": "Pole"
+  },
+  {
+    "synset": "n03977966",
+    "english": "police van",
+    "russian": "Police Van"
+  },
+  {
+    "synset": "n03980874",
+    "english": "poncho",
+    "russian": "Poncho"
+  },
+  {
+    "synset": "n03982430",
+    "english": "pool table",
+    "russian": "Pool Table"
+  },
+  {
+    "synset": "n03983396",
+    "english": "pop bottle",
+    "russian": "Pop Bottle"
+  },
+  {
+    "synset": "n03991062",
+    "english": "pot",
+    "russian": "Pot"
+  },
+  {
+    "synset": "n03992509",
+    "english": "potter's wheel",
+    "russian": "Potter'S Wheel"
+  },
+  {
+    "synset": "n03995372",
+    "english": "power drill",
+    "russian": "Power Drill"
+  },
+  {
+    "synset": "n03998194",
+    "english": "prayer rug",
+    "russian": "Prayer Rug"
+  },
+  {
+    "synset": "n04004767",
+    "english": "printer",
+    "russian": "Printer"
+  },
+  {
+    "synset": "n04005630",
+    "english": "prison",
+    "russian": "Prison"
+  },
+  {
+    "synset": "n04008634",
+    "english": "projectile",
+    "russian": "Projectile"
+  },
+  {
+    "synset": "n04009552",
+    "english": "projector",
+    "russian": "Projector"
+  },
+  {
+    "synset": "n04019541",
+    "english": "puck",
+    "russian": "Puck"
+  },
+  {
+    "synset": "n04023962",
+    "english": "punching bag",
+    "russian": "Punching Bag"
+  },
+  {
+    "synset": "n04026417",
+    "english": "purse",
+    "russian": "Purse"
+  },
+  {
+    "synset": "n04033901",
+    "english": "quill",
+    "russian": "Quill"
+  },
+  {
+    "synset": "n04033995",
+    "english": "quilt",
+    "russian": "Quilt"
+  },
+  {
+    "synset": "n04037443",
+    "english": "racer",
+    "russian": "Racer"
+  },
+  {
+    "synset": "n04039381",
+    "english": "racket",
+    "russian": "Racket"
+  },
+  {
+    "synset": "n04040759",
+    "english": "radiator",
+    "russian": "Radiator"
+  },
+  {
+    "synset": "n04041544",
+    "english": "radio",
+    "russian": "Radio"
+  },
+  {
+    "synset": "n04044716",
+    "english": "radio telescope",
+    "russian": "Radio Telescope"
+  },
+  {
+    "synset": "n04049303",
+    "english": "rain barrel",
+    "russian": "Rain Barrel"
+  },
+  {
+    "synset": "n04065272",
+    "english": "recreational vehicle",
+    "russian": "Recreational Vehicle"
+  },
+  {
+    "synset": "n04067472",
+    "english": "reel",
+    "russian": "Reel"
+  },
+  {
+    "synset": "n04069434",
+    "english": "reflex camera",
+    "russian": "Reflex Camera"
+  },
+  {
+    "synset": "n04070727",
+    "english": "refrigerator",
+    "russian": "Refrigerator"
+  },
+  {
+    "synset": "n04074963",
+    "english": "remote control",
+    "russian": "Remote Control"
+  },
+  {
+    "synset": "n04081281",
+    "english": "restaurant",
+    "russian": "Restaurant"
+  },
+  {
+    "synset": "n04086273",
+    "english": "revolver",
+    "russian": "Revolver"
+  },
+  {
+    "synset": "n04090263",
+    "english": "rifle",
+    "russian": "Rifle"
+  },
+  {
+    "synset": "n04099969",
+    "english": "rocking chair",
+    "russian": "Rocking Chair"
+  },
+  {
+    "synset": "n04111531",
+    "english": "rotisserie",
+    "russian": "Rotisserie"
+  },
+  {
+    "synset": "n04116512",
+    "english": "rubber eraser",
+    "russian": "Rubber Eraser"
+  },
+  {
+    "synset": "n04118538",
+    "english": "rugby ball",
+    "russian": "Rugby Ball"
+  },
+  {
+    "synset": "n04118776",
+    "english": "rule",
+    "russian": "Rule"
+  },
+  {
+    "synset": "n04120489",
+    "english": "running shoe",
+    "russian": "Running Shoe"
+  },
+  {
+    "synset": "n04125021",
+    "english": "safe",
+    "russian": "Safe"
+  },
+  {
+    "synset": "n04127249",
+    "english": "safety pin",
+    "russian": "Safety Pin"
+  },
+  {
+    "synset": "n04131690",
+    "english": "saltshaker",
+    "russian": "Saltshaker"
+  },
+  {
+    "synset": "n04133789",
+    "english": "sandal",
+    "russian": "Sandal"
+  },
+  {
+    "synset": "n04136333",
+    "english": "sarong",
+    "russian": "Sarong"
+  },
+  {
+    "synset": "n04141076",
+    "english": "sax",
+    "russian": "Sax"
+  },
+  {
+    "synset": "n04141327",
+    "english": "scabbard",
+    "russian": "Scabbard"
+  },
+  {
+    "synset": "n04141975",
+    "english": "scale",
+    "russian": "Scale"
+  },
+  {
+    "synset": "n04146614",
+    "english": "school bus",
+    "russian": "School Bus"
+  },
+  {
+    "synset": "n04147183",
+    "english": "schooner",
+    "russian": "Schooner"
+  },
+  {
+    "synset": "n04149813",
+    "english": "scoreboard",
+    "russian": "Scoreboard"
+  },
+  {
+    "synset": "n04152593",
+    "english": "screen",
+    "russian": "Экран"
+  },
+  {
+    "synset": "n04153751",
+    "english": "screw",
+    "russian": "Screw"
+  },
+  {
+    "synset": "n04154565",
+    "english": "screwdriver",
+    "russian": "Screwdriver"
+  },
+  {
+    "synset": "n04162706",
+    "english": "seat belt",
+    "russian": "Seat Belt"
+  },
+  {
+    "synset": "n04179913",
+    "english": "sewing machine",
+    "russian": "Sewing Machine"
+  },
+  {
+    "synset": "n04192698",
+    "english": "shield",
+    "russian": "Shield"
+  },
+  {
+    "synset": "n04200800",
+    "english": "shoe shop",
+    "russian": "Shoe Shop"
+  },
+  {
+    "synset": "n04201297",
+    "english": "shoji",
+    "russian": "Shoji"
+  },
+  {
+    "synset": "n04204238",
+    "english": "shopping basket",
+    "russian": "Shopping Basket"
+  },
+  {
+    "synset": "n04204347",
+    "english": "shopping cart",
+    "russian": "Shopping Cart"
+  },
+  {
+    "synset": "n04208210",
+    "english": "shovel",
+    "russian": "Shovel"
+  },
+  {
+    "synset": "n04209133",
+    "english": "shower cap",
+    "russian": "Shower Cap"
+  },
+  {
+    "synset": "n04209239",
+    "english": "shower curtain",
+    "russian": "Shower Curtain"
+  },
+  {
+    "synset": "n04228054",
+    "english": "ski",
+    "russian": "Ski"
+  },
+  {
+    "synset": "n04229816",
+    "english": "ski mask",
+    "russian": "Ski Mask"
+  },
+  {
+    "synset": "n04235860",
+    "english": "sleeping bag",
+    "russian": "Sleeping Bag"
+  },
+  {
+    "synset": "n04238763",
+    "english": "slide rule",
+    "russian": "Slide Rule"
+  },
+  {
+    "synset": "n04239074",
+    "english": "sliding door",
+    "russian": "Sliding Door"
+  },
+  {
+    "synset": "n04243546",
+    "english": "slot",
+    "russian": "Slot"
+  },
+  {
+    "synset": "n04251144",
+    "english": "snorkel",
+    "russian": "Snorkel"
+  },
+  {
+    "synset": "n04252077",
+    "english": "snowmobile",
+    "russian": "Snowmobile"
+  },
+  {
+    "synset": "n04252225",
+    "english": "snowplow",
+    "russian": "Snowplow"
+  },
+  {
+    "synset": "n04254120",
+    "english": "soap dispenser",
+    "russian": "Soap Dispenser"
+  },
+  {
+    "synset": "n04254680",
+    "english": "soccer ball",
+    "russian": "Soccer Ball"
+  },
+  {
+    "synset": "n04254777",
+    "english": "sock",
+    "russian": "Sock"
+  },
+  {
+    "synset": "n04258138",
+    "english": "solar dish",
+    "russian": "Solar Dish"
+  },
+  {
+    "synset": "n04259630",
+    "english": "sombrero",
+    "russian": "Sombrero"
+  },
+  {
+    "synset": "n04263257",
+    "english": "soup bowl",
+    "russian": "Soup Bowl"
+  },
+  {
+    "synset": "n04264628",
+    "english": "space bar",
+    "russian": "Space Bar"
+  },
+  {
+    "synset": "n04265275",
+    "english": "space heater",
+    "russian": "Space Heater"
+  },
+  {
+    "synset": "n04266014",
+    "english": "space shuttle",
+    "russian": "Space Shuttle"
+  },
+  {
+    "synset": "n04270147",
+    "english": "spatula",
+    "russian": "Spatula"
+  },
+  {
+    "synset": "n04273569",
+    "english": "speedboat",
+    "russian": "Speedboat"
+  },
+  {
+    "synset": "n04275548",
+    "english": "spider web",
+    "russian": "Spider Web"
+  },
+  {
+    "synset": "n04277352",
+    "english": "spindle",
+    "russian": "Spindle"
+  },
+  {
+    "synset": "n04285008",
+    "english": "sports car",
+    "russian": "Sports Car"
+  },
+  {
+    "synset": "n04286575",
+    "english": "spotlight",
+    "russian": "Spotlight"
+  },
+  {
+    "synset": "n04296562",
+    "english": "stage",
+    "russian": "Stage"
+  },
+  {
+    "synset": "n04310018",
+    "english": "steam locomotive",
+    "russian": "Steam Locomotive"
+  },
+  {
+    "synset": "n04311004",
+    "english": "steel arch bridge",
+    "russian": "Steel Arch Bridge"
+  },
+  {
+    "synset": "n04311174",
+    "english": "steel drum",
+    "russian": "Steel Drum"
+  },
+  {
+    "synset": "n04317175",
+    "english": "stethoscope",
+    "russian": "Stethoscope"
+  },
+  {
+    "synset": "n04325704",
+    "english": "stole",
+    "russian": "Stole"
+  },
+  {
+    "synset": "n04326547",
+    "english": "stone wall",
+    "russian": "Stone Wall"
+  },
+  {
+    "synset": "n04328186",
+    "english": "stopwatch",
+    "russian": "Stopwatch"
+  },
+  {
+    "synset": "n04330267",
+    "english": "stove",
+    "russian": "Stove"
+  },
+  {
+    "synset": "n04332243",
+    "english": "strainer",
+    "russian": "Strainer"
+  },
+  {
+    "synset": "n04335435",
+    "english": "streetcar",
+    "russian": "Streetcar"
+  },
+  {
+    "synset": "n04336792",
+    "english": "stretcher",
+    "russian": "Stretcher"
+  },
+  {
+    "synset": "n04344873",
+    "english": "studio couch",
+    "russian": "Studio Couch"
+  },
+  {
+    "synset": "n04346328",
+    "english": "stupa",
+    "russian": "Stupa"
+  },
+  {
+    "synset": "n04347754",
+    "english": "submarine",
+    "russian": "Submarine"
+  },
+  {
+    "synset": "n04350905",
+    "english": "suit",
+    "russian": "Suit"
+  },
+  {
+    "synset": "n04355338",
+    "english": "sundial",
+    "russian": "Sundial"
+  },
+  {
+    "synset": "n04355933",
+    "english": "sunglass",
+    "russian": "Sunglass"
+  },
+  {
+    "synset": "n04356056",
+    "english": "sunglasses",
+    "russian": "Sunglasses"
+  },
+  {
+    "synset": "n04357314",
+    "english": "sunscreen",
+    "russian": "Sunscreen"
+  },
+  {
+    "synset": "n04366367",
+    "english": "suspension bridge",
+    "russian": "Suspension Bridge"
+  },
+  {
+    "synset": "n04367480",
+    "english": "swab",
+    "russian": "Swab"
+  },
+  {
+    "synset": "n04370456",
+    "english": "sweatshirt",
+    "russian": "Sweatshirt"
+  },
+  {
+    "synset": "n04371430",
+    "english": "swimming trunks",
+    "russian": "Swimming Trunks"
+  },
+  {
+    "synset": "n04371774",
+    "english": "swing",
+    "russian": "Swing"
+  },
+  {
+    "synset": "n04372370",
+    "english": "switch",
+    "russian": "Switch"
+  },
+  {
+    "synset": "n04376876",
+    "english": "syringe",
+    "russian": "Syringe"
+  },
+  {
+    "synset": "n04380533",
+    "english": "table lamp",
+    "russian": "Table Lamp"
+  },
+  {
+    "synset": "n04389033",
+    "english": "tank",
+    "russian": "Tank"
+  },
+  {
+    "synset": "n04392985",
+    "english": "tape player",
+    "russian": "Tape Player"
+  },
+  {
+    "synset": "n04398044",
+    "english": "teapot",
+    "russian": "Teapot"
+  },
+  {
+    "synset": "n04399382",
+    "english": "teddy",
+    "russian": "Teddy"
+  },
+  {
+    "synset": "n04404412",
+    "english": "television",
+    "russian": "Телевизор"
+  },
+  {
+    "synset": "n04409515",
+    "english": "tennis ball",
+    "russian": "Tennis Ball"
+  },
+  {
+    "synset": "n04417672",
+    "english": "thatch",
+    "russian": "Thatch"
+  },
+  {
+    "synset": "n04418357",
+    "english": "theater curtain",
+    "russian": "Theater Curtain"
+  },
+  {
+    "synset": "n04423845",
+    "english": "thimble",
+    "russian": "Thimble"
+  },
+  {
+    "synset": "n04428191",
+    "english": "thresher",
+    "russian": "Thresher"
+  },
+  {
+    "synset": "n04429376",
+    "english": "throne",
+    "russian": "Throne"
+  },
+  {
+    "synset": "n04435653",
+    "english": "tile roof",
+    "russian": "Tile Roof"
+  },
+  {
+    "synset": "n04442312",
+    "english": "toaster",
+    "russian": "Toaster"
+  },
+  {
+    "synset": "n04443257",
+    "english": "tobacco shop",
+    "russian": "Tobacco Shop"
+  },
+  {
+    "synset": "n04447861",
+    "english": "toilet seat",
+    "russian": "Toilet Seat"
+  },
+  {
+    "synset": "n04456115",
+    "english": "torch",
+    "russian": "Torch"
+  },
+  {
+    "synset": "n04458633",
+    "english": "totem pole",
+    "russian": "Totem Pole"
+  },
+  {
+    "synset": "n04461696",
+    "english": "tow truck",
+    "russian": "Tow Truck"
+  },
+  {
+    "synset": "n04462240",
+    "english": "toyshop",
+    "russian": "Toyshop"
+  },
+  {
+    "synset": "n04465501",
+    "english": "tractor",
+    "russian": "Tractor"
+  },
+  {
+    "synset": "n04467665",
+    "english": "trailer truck",
+    "russian": "Trailer Truck"
+  },
+  {
+    "synset": "n04476259",
+    "english": "tray",
+    "russian": "Tray"
+  },
+  {
+    "synset": "n04479046",
+    "english": "trench coat",
+    "russian": "Trench Coat"
+  },
+  {
+    "synset": "n04482393",
+    "english": "tricycle",
+    "russian": "Tricycle"
+  },
+  {
+    "synset": "n04483307",
+    "english": "trimaran",
+    "russian": "Trimaran"
+  },
+  {
+    "synset": "n04485082",
+    "english": "tripod",
+    "russian": "Tripod"
+  },
+  {
+    "synset": "n04486054",
+    "english": "triumphal arch",
+    "russian": "Triumphal Arch"
+  },
+  {
+    "synset": "n04487081",
+    "english": "trolleybus",
+    "russian": "Trolleybus"
+  },
+  {
+    "synset": "n04487394",
+    "english": "trombone",
+    "russian": "Trombone"
+  },
+  {
+    "synset": "n04493381",
+    "english": "tub",
+    "russian": "Tub"
+  },
+  {
+    "synset": "n04501370",
+    "english": "turnstile",
+    "russian": "Turnstile"
+  },
+  {
+    "synset": "n04505470",
+    "english": "typewriter keyboard",
+    "russian": "Typewriter Keyboard"
+  },
+  {
+    "synset": "n04507155",
+    "english": "umbrella",
+    "russian": "Umbrella"
+  },
+  {
+    "synset": "n04509417",
+    "english": "unicycle",
+    "russian": "Unicycle"
+  },
+  {
+    "synset": "n04515003",
+    "english": "upright",
+    "russian": "Upright"
+  },
+  {
+    "synset": "n04517823",
+    "english": "vacuum",
+    "russian": "Vacuum"
+  },
+  {
+    "synset": "n04522168",
+    "english": "vase",
+    "russian": "Vase"
+  },
+  {
+    "synset": "n04523525",
+    "english": "vault",
+    "russian": "Vault"
+  },
+  {
+    "synset": "n04525038",
+    "english": "velvet",
+    "russian": "Velvet"
+  },
+  {
+    "synset": "n04525305",
+    "english": "vending machine",
+    "russian": "Vending Machine"
+  },
+  {
+    "synset": "n04532106",
+    "english": "vestment",
+    "russian": "Vestment"
+  },
+  {
+    "synset": "n04532670",
+    "english": "viaduct",
+    "russian": "Viaduct"
+  },
+  {
+    "synset": "n04536866",
+    "english": "violin",
+    "russian": "Violin"
+  },
+  {
+    "synset": "n04540053",
+    "english": "volleyball",
+    "russian": "Volleyball"
+  },
+  {
+    "synset": "n04542943",
+    "english": "waffle iron",
+    "russian": "Waffle Iron"
+  },
+  {
+    "synset": "n04548280",
+    "english": "wall clock",
+    "russian": "Wall Clock"
+  },
+  {
+    "synset": "n04548362",
+    "english": "wallet",
+    "russian": "Wallet"
+  },
+  {
+    "synset": "n04550184",
+    "english": "wardrobe",
+    "russian": "Wardrobe"
+  },
+  {
+    "synset": "n04552348",
+    "english": "warplane",
+    "russian": "Warplane"
+  },
+  {
+    "synset": "n04553703",
+    "english": "washbasin",
+    "russian": "Washbasin"
+  },
+  {
+    "synset": "n04554684",
+    "english": "washer",
+    "russian": "Washer"
+  },
+  {
+    "synset": "n04557648",
+    "english": "water bottle",
+    "russian": "Бутылка воды"
+  },
+  {
+    "synset": "n04560804",
+    "english": "water jug",
+    "russian": "Water Jug"
+  },
+  {
+    "synset": "n04562935",
+    "english": "water tower",
+    "russian": "Water Tower"
+  },
+  {
+    "synset": "n04579145",
+    "english": "whiskey jug",
+    "russian": "Whiskey Jug"
+  },
+  {
+    "synset": "n04579432",
+    "english": "whistle",
+    "russian": "Whistle"
+  },
+  {
+    "synset": "n04584207",
+    "english": "wig",
+    "russian": "Wig"
+  },
+  {
+    "synset": "n04589890",
+    "english": "window screen",
+    "russian": "Window Screen"
+  },
+  {
+    "synset": "n04590129",
+    "english": "window shade",
+    "russian": "Window Shade"
+  },
+  {
+    "synset": "n04591157",
+    "english": "Windsor tie",
+    "russian": "Windsor Tie"
+  },
+  {
+    "synset": "n04591713",
+    "english": "wine bottle",
+    "russian": "Wine Bottle"
+  },
+  {
+    "synset": "n04592741",
+    "english": "wing",
+    "russian": "Wing"
+  },
+  {
+    "synset": "n04596742",
+    "english": "wok",
+    "russian": "Wok"
+  },
+  {
+    "synset": "n04597913",
+    "english": "wooden spoon",
+    "russian": "Wooden Spoon"
+  },
+  {
+    "synset": "n04599235",
+    "english": "wool",
+    "russian": "Wool"
+  },
+  {
+    "synset": "n04604644",
+    "english": "worm fence",
+    "russian": "Worm Fence"
+  },
+  {
+    "synset": "n04606251",
+    "english": "wreck",
+    "russian": "Wreck"
+  },
+  {
+    "synset": "n04612504",
+    "english": "yawl",
+    "russian": "Yawl"
+  },
+  {
+    "synset": "n04613696",
+    "english": "yurt",
+    "russian": "Yurt"
+  },
+  {
+    "synset": "n06359193",
+    "english": "web site",
+    "russian": "Web Site"
+  },
+  {
+    "synset": "n06596364",
+    "english": "comic book",
+    "russian": "Comic Book"
+  },
+  {
+    "synset": "n06785654",
+    "english": "crossword puzzle",
+    "russian": "Crossword Puzzle"
+  },
+  {
+    "synset": "n06794110",
+    "english": "street sign",
+    "russian": "Street Sign"
+  },
+  {
+    "synset": "n06874185",
+    "english": "traffic light",
+    "russian": "Traffic Light"
+  },
+  {
+    "synset": "n07248320",
+    "english": "book jacket",
+    "russian": "Обложка книги"
+  },
+  {
+    "synset": "n07565083",
+    "english": "menu",
+    "russian": "Меню"
+  },
+  {
+    "synset": "n07579787",
+    "english": "plate",
+    "russian": "Plate"
+  },
+  {
+    "synset": "n07583066",
+    "english": "guacamole",
+    "russian": "Guacamole"
+  },
+  {
+    "synset": "n07584110",
+    "english": "consomme",
+    "russian": "Consomme"
+  },
+  {
+    "synset": "n07590611",
+    "english": "hot pot",
+    "russian": "Hot Pot"
+  },
+  {
+    "synset": "n07613480",
+    "english": "trifle",
+    "russian": "Trifle"
+  },
+  {
+    "synset": "n07614500",
+    "english": "ice cream",
+    "russian": "Ice Cream"
+  },
+  {
+    "synset": "n07615774",
+    "english": "ice lolly",
+    "russian": "Ice Lolly"
+  },
+  {
+    "synset": "n07684084",
+    "english": "French loaf",
+    "russian": "French Loaf"
+  },
+  {
+    "synset": "n07693725",
+    "english": "bagel",
+    "russian": "Bagel"
+  },
+  {
+    "synset": "n07695742",
+    "english": "pretzel",
+    "russian": "Pretzel"
+  },
+  {
+    "synset": "n07697313",
+    "english": "cheeseburger",
+    "russian": "Cheeseburger"
+  },
+  {
+    "synset": "n07697537",
+    "english": "hotdog",
+    "russian": "Hotdog"
+  },
+  {
+    "synset": "n07711569",
+    "english": "mashed potato",
+    "russian": "Mashed Potato"
+  },
+  {
+    "synset": "n07714571",
+    "english": "head cabbage",
+    "russian": "Head Cabbage"
+  },
+  {
+    "synset": "n07714990",
+    "english": "broccoli",
+    "russian": "Broccoli"
+  },
+  {
+    "synset": "n07715103",
+    "english": "cauliflower",
+    "russian": "Cauliflower"
+  },
+  {
+    "synset": "n07716358",
+    "english": "zucchini",
+    "russian": "Zucchini"
+  },
+  {
+    "synset": "n07716906",
+    "english": "spaghetti squash",
+    "russian": "Spaghetti Squash"
+  },
+  {
+    "synset": "n07717410",
+    "english": "acorn squash",
+    "russian": "Acorn Squash"
+  },
+  {
+    "synset": "n07717556",
+    "english": "butternut squash",
+    "russian": "Butternut Squash"
+  },
+  {
+    "synset": "n07718472",
+    "english": "cucumber",
+    "russian": "Cucumber"
+  },
+  {
+    "synset": "n07718747",
+    "english": "artichoke",
+    "russian": "Artichoke"
+  },
+  {
+    "synset": "n07720875",
+    "english": "bell pepper",
+    "russian": "Bell Pepper"
+  },
+  {
+    "synset": "n07730033",
+    "english": "cardoon",
+    "russian": "Cardoon"
+  },
+  {
+    "synset": "n07734744",
+    "english": "mushroom",
+    "russian": "Mushroom"
+  },
+  {
+    "synset": "n07742313",
+    "english": "Granny Smith",
+    "russian": "Granny Smith"
+  },
+  {
+    "synset": "n07745940",
+    "english": "strawberry",
+    "russian": "Strawberry"
+  },
+  {
+    "synset": "n07747607",
+    "english": "orange",
+    "russian": "Orange"
+  },
+  {
+    "synset": "n07749582",
+    "english": "lemon",
+    "russian": "Lemon"
+  },
+  {
+    "synset": "n07753113",
+    "english": "fig",
+    "russian": "Fig"
+  },
+  {
+    "synset": "n07753275",
+    "english": "pineapple",
+    "russian": "Pineapple"
+  },
+  {
+    "synset": "n07753592",
+    "english": "banana",
+    "russian": "Banana"
+  },
+  {
+    "synset": "n07754684",
+    "english": "jackfruit",
+    "russian": "Jackfruit"
+  },
+  {
+    "synset": "n07760859",
+    "english": "custard apple",
+    "russian": "Custard Apple"
+  },
+  {
+    "synset": "n07768694",
+    "english": "pomegranate",
+    "russian": "Pomegranate"
+  },
+  {
+    "synset": "n07802026",
+    "english": "hay",
+    "russian": "Hay"
+  },
+  {
+    "synset": "n07831146",
+    "english": "carbonara",
+    "russian": "Carbonara"
+  },
+  {
+    "synset": "n07836838",
+    "english": "chocolate sauce",
+    "russian": "Chocolate Sauce"
+  },
+  {
+    "synset": "n07860988",
+    "english": "dough",
+    "russian": "Dough"
+  },
+  {
+    "synset": "n07871810",
+    "english": "meat loaf",
+    "russian": "Meat Loaf"
+  },
+  {
+    "synset": "n07873807",
+    "english": "pizza",
+    "russian": "Pizza"
+  },
+  {
+    "synset": "n07875152",
+    "english": "potpie",
+    "russian": "Potpie"
+  },
+  {
+    "synset": "n07880968",
+    "english": "burrito",
+    "russian": "Burrito"
+  },
+  {
+    "synset": "n07892512",
+    "english": "red wine",
+    "russian": "Red Wine"
+  },
+  {
+    "synset": "n07920052",
+    "english": "espresso",
+    "russian": "Espresso"
+  },
+  {
+    "synset": "n07930864",
+    "english": "cup",
+    "russian": "Cup"
+  },
+  {
+    "synset": "n07932039",
+    "english": "eggnog",
+    "russian": "Eggnog"
+  },
+  {
+    "synset": "n09193705",
+    "english": "alp",
+    "russian": "Alp"
+  },
+  {
+    "synset": "n09229709",
+    "english": "bubble",
+    "russian": "Bubble"
+  },
+  {
+    "synset": "n09246464",
+    "english": "cliff",
+    "russian": "Cliff"
+  },
+  {
+    "synset": "n09256479",
+    "english": "coral reef",
+    "russian": "Coral Reef"
+  },
+  {
+    "synset": "n09288635",
+    "english": "geyser",
+    "russian": "Geyser"
+  },
+  {
+    "synset": "n09332890",
+    "english": "lakeside",
+    "russian": "Lakeside"
+  },
+  {
+    "synset": "n09399592",
+    "english": "promontory",
+    "russian": "Promontory"
+  },
+  {
+    "synset": "n09421951",
+    "english": "sandbar",
+    "russian": "Sandbar"
+  },
+  {
+    "synset": "n09428293",
+    "english": "seashore",
+    "russian": "Seashore"
+  },
+  {
+    "synset": "n09468604",
+    "english": "valley",
+    "russian": "Valley"
+  },
+  {
+    "synset": "n09472597",
+    "english": "volcano",
+    "russian": "Volcano"
+  },
+  {
+    "synset": "n09835506",
+    "english": "ballplayer",
+    "russian": "Ballplayer"
+  },
+  {
+    "synset": "n10148035",
+    "english": "groom",
+    "russian": "Groom"
+  },
+  {
+    "synset": "n10565667",
+    "english": "scuba diver",
+    "russian": "Scuba Diver"
+  },
+  {
+    "synset": "n11879895",
+    "english": "rapeseed",
+    "russian": "Rapeseed"
+  },
+  {
+    "synset": "n11939491",
+    "english": "daisy",
+    "russian": "Daisy"
+  },
+  {
+    "synset": "n12057211",
+    "english": "yellow lady's slipper",
+    "russian": "Yellow Lady'S Slipper"
+  },
+  {
+    "synset": "n12144580",
+    "english": "corn",
+    "russian": "Corn"
+  },
+  {
+    "synset": "n12267677",
+    "english": "acorn",
+    "russian": "Acorn"
+  },
+  {
+    "synset": "n12620546",
+    "english": "hip",
+    "russian": "Hip"
+  },
+  {
+    "synset": "n12768682",
+    "english": "buckeye",
+    "russian": "Buckeye"
+  },
+  {
+    "synset": "n12985857",
+    "english": "coral fungus",
+    "russian": "Coral Fungus"
+  },
+  {
+    "synset": "n12998815",
+    "english": "agaric",
+    "russian": "Agaric"
+  },
+  {
+    "synset": "n13037406",
+    "english": "gyromitra",
+    "russian": "Gyromitra"
+  },
+  {
+    "synset": "n13040303",
+    "english": "stinkhorn",
+    "russian": "Stinkhorn"
+  },
+  {
+    "synset": "n13044778",
+    "english": "earthstar",
+    "russian": "Earthstar"
+  },
+  {
+    "synset": "n13052670",
+    "english": "hen-of-the-woods",
+    "russian": "Hen-Of-The-Woods"
+  },
+  {
+    "synset": "n13054560",
+    "english": "bolete",
+    "russian": "Bolete"
+  },
+  {
+    "synset": "n13133613",
+    "english": "ear",
+    "russian": "Ear"
+  },
+  {
+    "synset": "n15075141",
+    "english": "toilet tissue",
+    "russian": "Toilet Tissue"
+  }
+]
